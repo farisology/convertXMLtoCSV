@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 import csv
 
-tree = ET.parse("schoolsbeautified.xml")
+tree = ET.parse("schooldata.xml")
 root = tree.getroot()
 
 # open a file for writing
