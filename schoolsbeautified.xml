@@ -1,0 +1,2402 @@
+<response>
+	<row _id="1" _uuid="8DC0860D-E13B-42CD-B21A-D869BD3FFE63" _position="1" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/1">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Earle B. Wood MS</school_name>
+		<address>14615 Bauer Dr</address>
+		<city>Rockville</city>
+		<zip_code>20852</zip_code>
+		<phone>301-460-2150</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/woodms</url>
+		<longitude>-77.1075293636</longitude>
+		<latitude>39.093294956</latitude>
+		<location human_address="{&quot;address&quot;:&quot;14615 Bauer Dr&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20852&quot;}" latitude="39.093294956" longitude="-77.1075293636" needs_recoding="false" />
+	</row>
+	<row _id="2" _uuid="19ADA283-E949-4939-AA32-E1F06030E75F" _position="2" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/2">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Parkland MS</school_name>
+		<address>4610 W Frankfort Dr</address>
+		<city>Rockville</city>
+		<zip_code>20853</zip_code>
+		<phone>301-438-5700</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/parklandms</url>
+		<longitude>-77.0916686732</longitude>
+		<latitude>39.0841517945</latitude>
+		<location human_address="{&quot;address&quot;:&quot;4610 W Frankfort Dr&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20853&quot;}" latitude="39.0841517945" longitude="-77.0916686732" needs_recoding="false" />
+	</row>
+	<row _id="3" _uuid="0D304544-DBAD-4B5D-B751-ACFC2CD1C9AA" _position="3" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/3">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Briggs Chaney MS</school_name>
+		<address>1901 Rainbow Dr</address>
+		<city>Silver Spring</city>
+		<zip_code>20905</zip_code>
+		<phone>301-989-6000</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/briggschaneyms</url>
+		<longitude>-76.9714624882</longitude>
+		<latitude>39.1097896862</latitude>
+		<location human_address="{&quot;address&quot;:&quot;1901 Rainbow Dr&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20905&quot;}" latitude="39.1097896862" longitude="-76.9714624882" needs_recoding="false" />
+	</row>
+	<row _id="4" _uuid="F50ADB17-9627-4477-993E-1CCA9DFC0826" _position="4" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/4">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Martin Luther King MS</school_name>
+		<address>13737 Wisteria Dr</address>
+		<city>Germantown</city>
+		<zip_code>20874</zip_code>
+		<phone>301-353-8080</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/mlkms</url>
+		<longitude>-77.2851000471</longitude>
+		<latitude>39.1809127605</latitude>
+		<location human_address="{&quot;address&quot;:&quot;13737 Wisteria Dr&quot;,&quot;city&quot;:&quot;Germantown&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20874&quot;}" latitude="39.1809127605" longitude="-77.2851000471" needs_recoding="false" />
+	</row>
+	<row _id="5" _uuid="7FC0A9F1-855D-4A9E-B900-8B95E5A81B81" _position="5" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/5">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Kingsview MS</school_name>
+		<address>18909 Kingsview Rd</address>
+		<city>Germantown</city>
+		<zip_code>20874</zip_code>
+		<phone>301-601-4611</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/kingsviewms</url>
+		<longitude>-77.2850448312</longitude>
+		<latitude>39.1661607823</latitude>
+		<location human_address="{&quot;address&quot;:&quot;18909 Kingsview Rd&quot;,&quot;city&quot;:&quot;Germantown&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20874&quot;}" latitude="39.1661607823" longitude="-77.2850448312" needs_recoding="false" />
+	</row>
+	<row _id="6" _uuid="B58AEF6E-D53E-4E3D-B5CA-CC68979E24E0" _position="6" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/6">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Argyle MS</school_name>
+		<address>2400 Bel Pre Rd</address>
+		<city>Silver Spring</city>
+		<zip_code>20906</zip_code>
+		<phone>301-460-2400</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/argylems</url>
+		<longitude>-77.048924226</longitude>
+		<latitude>39.0895212498</latitude>
+		<location human_address="{&quot;address&quot;:&quot;2400 Bel Pre Rd&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20906&quot;}" latitude="39.0895212498" longitude="-77.048924226" needs_recoding="false" />
+	</row>
+	<row _id="7" _uuid="D9179716-9484-41FC-A37E-A2BBF13BC2CC" _position="7" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/7">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Rocky Hill MS</school_name>
+		<address>22401 Brick Haven Way</address>
+		<city>Clarksburg</city>
+		<zip_code>20871</zip_code>
+		<phone>301-353-8282</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/rockyhillms</url>
+		<longitude>-77.2634759958</longitude>
+		<latitude>39.2218821148</latitude>
+		<location human_address="{&quot;address&quot;:&quot;22401 Brick Haven Way&quot;,&quot;city&quot;:&quot;Clarksburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20871&quot;}" latitude="39.2218821148" longitude="-77.2634759958" needs_recoding="false" />
+	</row>
+	<row _id="8" _uuid="B68301C3-6A6A-43CB-8AD1-C3D4CD52A31E" _position="8" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/8">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Neelsville MS</school_name>
+		<address>11700 Neelsville Church Rd</address>
+		<city>Germantown</city>
+		<zip_code>20876</zip_code>
+		<phone>301-353-8064</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/neelsvillems</url>
+		<longitude>-77.2405597451</longitude>
+		<latitude>39.1940928847</latitude>
+		<location human_address="{&quot;address&quot;:&quot;11700 Neelsville Church Rd&quot;,&quot;city&quot;:&quot;Germantown&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20876&quot;}" latitude="39.1940928847" longitude="-77.2405597451" needs_recoding="false" />
+	</row>
+	<row _id="9" _uuid="24613C83-9C01-41DA-A972-9F38D0DE56DF" _position="9" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/9">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>John T Baker MS</school_name>
+		<address>25400 Oak Dr</address>
+		<city>Damascus</city>
+		<zip_code>20872</zip_code>
+		<phone>301-253-7010</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/bakerms</url>
+		<longitude>-77.2187711116</longitude>
+		<latitude>39.2741001904</latitude>
+		<location human_address="{&quot;address&quot;:&quot;25400 Oak Dr&quot;,&quot;city&quot;:&quot;Damascus&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20872&quot;}" latitude="39.2741001904" longitude="-77.2187711116" needs_recoding="false" />
+	</row>
+	<row _id="10" _uuid="FBD0556D-659F-4B8B-8768-18C7261A1EA7" _position="10" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/10">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Thomas W Pyle MS</school_name>
+		<address>6311 Wilson La</address>
+		<city>Bethesda</city>
+		<zip_code>20817</zip_code>
+		<phone>301-320-6540</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/pylems</url>
+		<longitude>-77.1296136734</longitude>
+		<latitude>38.9888410039</latitude>
+		<location human_address="{&quot;address&quot;:&quot;6311 Wilson La&quot;,&quot;city&quot;:&quot;Bethesda&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20817&quot;}" latitude="38.9888410039" longitude="-77.1296136734" needs_recoding="false" />
+	</row>
+	<row _id="11" _uuid="6D5EB1EC-B6EE-40ED-A980-4306AEACD6BC" _position="11" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/11">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Westland MS</school_name>
+		<address>5511 Massachusetts Ave</address>
+		<city>Bethesda</city>
+		<zip_code>20816</zip_code>
+		<phone>301-320-6515</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/westlandms</url>
+		<longitude>-77.1089289733</longitude>
+		<latitude>38.9603838716</latitude>
+		<location human_address="{&quot;address&quot;:&quot;5511 Massachusetts Ave&quot;,&quot;city&quot;:&quot;Bethesda&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20816&quot;}" latitude="38.9603838716" longitude="-77.1089289733" needs_recoding="false" />
+	</row>
+	<row _id="12" _uuid="C76C8F56-CBAD-4A8A-B428-039335CC0B99" _position="12" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/12">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>North Bethesda MS</school_name>
+		<address>8935 Bradmoor Dr</address>
+		<city>Bethesda</city>
+		<zip_code>20817</zip_code>
+		<phone>301-571-3883</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/northbethesdams</url>
+		<longitude>-77.1248538896</longitude>
+		<latitude>39.0045827558</latitude>
+		<location human_address="{&quot;address&quot;:&quot;8935 Bradmoor Dr&quot;,&quot;city&quot;:&quot;Bethesda&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20817&quot;}" latitude="39.0045827558" longitude="-77.1248538896" needs_recoding="false" />
+	</row>
+	<row _id="13" _uuid="4BBC9298-3497-4E6A-A3E2-93087399D9A5" _position="13" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/13">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Herbert Hoover MS (Construction)</school_name>
+		<address>8810 Post Oak Rd</address>
+		<city>Potomac</city>
+		<zip_code>20854</zip_code>
+		<phone>301-469-1010</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/hooverms</url>
+		<longitude>-77.1786375804</longitude>
+		<latitude>39.0448587758</latitude>
+		<location human_address="{&quot;address&quot;:&quot;8810 Post Oak Rd&quot;,&quot;city&quot;:&quot;Potomac&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20854&quot;}" latitude="39.0448587758" longitude="-77.1786375804" needs_recoding="false" />
+	</row>
+	<row _id="14" _uuid="1FDDF0D0-9913-4F53-8D8D-C4CDC6191AAE" _position="14" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/14">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Tilden MS</school_name>
+		<address>11211 Old Georgetown Rd</address>
+		<city>Rockville</city>
+		<zip_code>20852</zip_code>
+		<phone>301-230-5930</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/tildenms</url>
+		<longitude>-77.1219142526</longitude>
+		<latitude>39.038258394</latitude>
+		<location human_address="{&quot;address&quot;:&quot;11211 Old Georgetown Rd&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20852&quot;}" latitude="39.038258394" longitude="-77.1219142526" needs_recoding="false" />
+	</row>
+	<row _id="15" _uuid="5F88E0A6-6028-408F-A56A-F639CD17D0DC" _position="15" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/15">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Cabin John MS</school_name>
+		<address>10701 Gainsborough Rd</address>
+		<city>Potomac</city>
+		<zip_code>20854</zip_code>
+		<phone>301-469-1150</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/cabinjohnms</url>
+		<longitude>-77.1720217394</longitude>
+		<latitude>39.0315783821</latitude>
+		<location human_address="{&quot;address&quot;:&quot;10701 Gainsborough Rd&quot;,&quot;city&quot;:&quot;Potomac&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20854&quot;}" latitude="39.0315783821" longitude="-77.1720217394" needs_recoding="false" />
+	</row>
+	<row _id="16" _uuid="1FD2A9FD-DA7A-45BD-AE22-FA9F5077E405" _position="16" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/16">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Takoma Park MS</school_name>
+		<address>7611 Piney Branch Rd</address>
+		<city>Takoma Park</city>
+		<zip_code>20910</zip_code>
+		<phone>301-650-6444</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/takomaparkms</url>
+		<longitude>-77.0130811462</longitude>
+		<latitude>38.9854294113</latitude>
+		<location human_address="{&quot;address&quot;:&quot;7611 Piney Branch Rd&quot;,&quot;city&quot;:&quot;Takoma Park&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20910&quot;}" latitude="38.9854294113" longitude="-77.0130811462" needs_recoding="false" />
+	</row>
+	<row _id="17" _uuid="6F267181-4211-4973-9B03-391650998A8B" _position="17" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/17">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Silver Spring International MS</school_name>
+		<address>313 Wayne Ave</address>
+		<city>Silver Spring</city>
+		<zip_code>20910</zip_code>
+		<phone>301-650-6544</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/ssims</url>
+		<longitude>-77.0147746936</longitude>
+		<latitude>39.0005798316</latitude>
+		<location human_address="{&quot;address&quot;:&quot;313 Wayne Ave&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20910&quot;}" latitude="39.0005798316" longitude="-77.0147746936" needs_recoding="false" />
+	</row>
+	<row _id="18" _uuid="0D9B39F9-461D-4032-A5B9-0500770B8F19" _position="18" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/18">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Sligo MS</school_name>
+		<address>1401 Dennis Ave</address>
+		<city>Silver Spring</city>
+		<zip_code>20902</zip_code>
+		<phone>301-649-8121</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/sligoms</url>
+		<longitude>-77.0328776196</longitude>
+		<latitude>39.0267787982</latitude>
+		<location human_address="{&quot;address&quot;:&quot;1401 Dennis Ave&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20902&quot;}" latitude="39.0267787982" longitude="-77.0328776196" needs_recoding="false" />
+	</row>
+	<row _id="19" _uuid="32311A6D-DACF-4199-901E-6DED52E15AB2" _position="19" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/19">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Francis Scott Key MS</school_name>
+		<address>910 Schindler Dr</address>
+		<city>Silver Spring</city>
+		<zip_code>20903</zip_code>
+		<phone>301-422-5600</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/fskms</url>
+		<longitude>-76.9922116369</longitude>
+		<latitude>39.0276166438</latitude>
+		<location human_address="{&quot;address&quot;:&quot;910 Schindler Dr&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20903&quot;}" latitude="39.0276166438" longitude="-76.9922116369" needs_recoding="false" />
+	</row>
+	<row _id="20" _uuid="8FA52CD7-5AF4-4A0A-AB33-1601ED16371B" _position="20" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/20">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Eastern MS</school_name>
+		<address>300 E University Blv</address>
+		<city>Silver Spring</city>
+		<zip_code>20901</zip_code>
+		<phone>301-650-6650</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/easternms</url>
+		<longitude>-77.0008858418</longitude>
+		<latitude>39.0118461813</latitude>
+		<location human_address="{&quot;address&quot;:&quot;300 E University Blv&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20901&quot;}" latitude="39.0118461813" longitude="-77.0008858418" needs_recoding="false" />
+	</row>
+	<row _id="21" _uuid="87B48523-4186-4438-AB1E-6873F82B9D3B" _position="21" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/21">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Col E Brooke Lee MS</school_name>
+		<address>11800 Monticello Ave</address>
+		<city>Silver Spring</city>
+		<zip_code>20902</zip_code>
+		<phone>301-649-8100</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/leems</url>
+		<longitude>-77.0307001852</longitude>
+		<latitude>39.0496028325</latitude>
+		<location human_address="{&quot;address&quot;:&quot;11800 Monticello Ave&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20902&quot;}" latitude="39.0496028325" longitude="-77.0307001852" needs_recoding="false" />
+	</row>
+	<row _id="22" _uuid="E08F3F19-6075-477A-B6EF-8AE68CEDBCF8" _position="22" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/22">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>White Oak MS</school_name>
+		<address>12201 New Hampshire Ave</address>
+		<city>Silver Spring</city>
+		<zip_code>20904</zip_code>
+		<phone>301-989-5780</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/whiteoakms</url>
+		<longitude>-76.9953329495</longitude>
+		<latitude>39.0565217301</latitude>
+		<location human_address="{&quot;address&quot;:&quot;12201 New Hampshire Ave&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20904&quot;}" latitude="39.0565217301" longitude="-76.9953329495" needs_recoding="false" />
+	</row>
+	<row _id="23" _uuid="232E91D8-6558-4D99-934C-0A3ADC46763B" _position="23" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/23">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Forest Oak MS</school_name>
+		<address>651 Saybrooke Oaks Blv</address>
+		<city>Gaithersburg</city>
+		<zip_code>20877</zip_code>
+		<phone>301-670-8242</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/forestoakms</url>
+		<longitude>-77.1844656503</longitude>
+		<latitude>39.1535621295</latitude>
+		<location human_address="{&quot;address&quot;:&quot;651 Saybrooke Oaks Blv&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20877&quot;}" latitude="39.1535621295" longitude="-77.1844656503" needs_recoding="false" />
+	</row>
+	<row _id="24" _uuid="714BD6F7-BFA9-4EAE-B6C0-524AA345B31B" _position="24" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/24">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>John Poole MS</school_name>
+		<address>17014 Tom Fox Ave</address>
+		<city>Poolesville</city>
+		<zip_code>20837</zip_code>
+		<phone>301-972-7979</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/poolems</url>
+		<longitude>-77.410844519</longitude>
+		<latitude>39.1260537267</latitude>
+		<location human_address="{&quot;address&quot;:&quot;17014 Tom Fox Ave&quot;,&quot;city&quot;:&quot;Poolesville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20837&quot;}" latitude="39.1260537267" longitude="-77.410844519" needs_recoding="false" />
+	</row>
+	<row _id="25" _uuid="1522EA05-7FDA-4D77-A676-7F63044AEA75" _position="25" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/25">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>A Mario Loiederman MS</school_name>
+		<address>12701 Goodhill Rd</address>
+		<city>Silver Spring</city>
+		<zip_code>20906</zip_code>
+		<phone>301-929-2282</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/loiedermanms</url>
+		<longitude>-77.0708351501</longitude>
+		<latitude>39.065306494</latitude>
+		<location human_address="{&quot;address&quot;:&quot;12701 Goodhill Rd&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20906&quot;}" latitude="39.065306494" longitude="-77.0708351501" needs_recoding="false" />
+	</row>
+	<row _id="26" _uuid="FCB93A1B-D353-4D1B-94AF-0D7100CE0B8B" _position="26" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/26">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Lakelands Park MS</school_name>
+		<address>1200 Main St</address>
+		<city>Gaithersburg</city>
+		<zip_code>20878</zip_code>
+		<phone>301-670-1400</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/lakelandsparkms</url>
+		<longitude>-77.2329591425</longitude>
+		<latitude>39.115512598</latitude>
+		<location human_address="{&quot;address&quot;:&quot;1200 Main St&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20878&quot;}" latitude="39.115512598" longitude="-77.2329591425" needs_recoding="false" />
+	</row>
+	<row _id="27" _uuid="966C0C8C-C35B-46C0-9044-82168BEAD01C" _position="27" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/27">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Herbert Hoover MS (at Tilden Center)</school_name>
+		<address>6300 Tilden La</address>
+		<city>Rockville</city>
+		<zip_code>20852</zip_code>
+		<phone>301-469-1010</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/hooverms</url>
+		<longitude>-77.1305753352</longitude>
+		<latitude>39.0423221394</latitude>
+		<location human_address="{&quot;address&quot;:&quot;6300 Tilden La&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20852&quot;}" latitude="39.0423221394" longitude="-77.1305753352" needs_recoding="false" />
+	</row>
+	<row _id="28" _uuid="455A3357-C407-4131-8306-E2EA95D074BB" _position="28" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/28">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Benjamin Banneker MS</school_name>
+		<address>14800 Perrywood Dr</address>
+		<city>Burtonsville</city>
+		<zip_code>20866</zip_code>
+		<phone>301-989-5747</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/bannekerms</url>
+		<longitude>-76.948403246</longitude>
+		<latitude>39.0960860509</latitude>
+		<location human_address="{&quot;address&quot;:&quot;14800 Perrywood Dr&quot;,&quot;city&quot;:&quot;Burtonsville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20866&quot;}" latitude="39.0960860509" longitude="-76.948403246" needs_recoding="false" />
+	</row>
+	<row _id="29" _uuid="D584DC2E-7CF2-4D3B-B04B-E09BEBC9239B" _position="29" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/29">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>William H Farquhar MS</school_name>
+		<address>16915 Batchellors Forest Rd</address>
+		<city>Olney</city>
+		<zip_code>20832</zip_code>
+		<phone>301-924-3100</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/farquharms</url>
+		<longitude>-77.0450643632</longitude>
+		<latitude>39.134332601</latitude>
+		<location human_address="{&quot;address&quot;:&quot;16915 Batchellors Forest Rd&quot;,&quot;city&quot;:&quot;Olney&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20832&quot;}" latitude="39.134332601" longitude="-77.0450643632" needs_recoding="false" />
+	</row>
+	<row _id="30" _uuid="67074219-B95B-426F-8B24-B5490768AD3D" _position="30" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/30">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Rosa M Parks MS</school_name>
+		<address>19200 Olney Mill Rd</address>
+		<city>Olney</city>
+		<zip_code>20832</zip_code>
+		<phone>301-924-3180</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/rosaparksms</url>
+		<longitude>-77.0811949528</longitude>
+		<latitude>39.1719982569</latitude>
+		<location human_address="{&quot;address&quot;:&quot;19200 Olney Mill Rd&quot;,&quot;city&quot;:&quot;Olney&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20832&quot;}" latitude="39.1719982569" longitude="-77.0811949528" needs_recoding="false" />
+	</row>
+	<row _id="31" _uuid="CF61F65A-4842-4F8E-B1C5-28C5557EAC42" _position="31" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/31">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Shady Grove MS</school_name>
+		<address>8100 Midcounty Hwy</address>
+		<city>Gaithersburg</city>
+		<zip_code>20877</zip_code>
+		<phone>301-548-7540</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/shadygrovems</url>
+		<longitude>-77.1626472824</longitude>
+		<latitude>39.1431549327</latitude>
+		<location human_address="{&quot;address&quot;:&quot;8100 Midcounty Hwy&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20877&quot;}" latitude="39.1431549327" longitude="-77.1626472824" needs_recoding="false" />
+	</row>
+	<row _id="32" _uuid="A2130448-400F-4CA2-AC3A-14A6C65ECF38" _position="32" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/32">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Redland MS</school_name>
+		<address>6505 Muncaster Mill Rd</address>
+		<city>Rockville</city>
+		<zip_code>20855</zip_code>
+		<phone>301-840-4680</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/redlandms</url>
+		<longitude>-77.1319130755</longitude>
+		<latitude>39.1405182884</latitude>
+		<location human_address="{&quot;address&quot;:&quot;6505 Muncaster Mill Rd&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20855&quot;}" latitude="39.1405182884" longitude="-77.1319130755" needs_recoding="false" />
+	</row>
+	<row _id="33" _uuid="A57CADAE-ACC6-4236-A220-E1E0431A70A7" _position="33" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/33">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Newport Mill MS</school_name>
+		<address>11311 Newport Mill Rd</address>
+		<city>Kensington</city>
+		<zip_code>20895</zip_code>
+		<phone>301-929-2244</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/newportmillms</url>
+		<longitude>-77.0677974108</longitude>
+		<latitude>39.041512287</latitude>
+		<location human_address="{&quot;address&quot;:&quot;11311 Newport Mill Rd&quot;,&quot;city&quot;:&quot;Kensington&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20895&quot;}" latitude="39.041512287" longitude="-77.0677974108" needs_recoding="false" />
+	</row>
+	<row _id="34" _uuid="97EA3FB5-CC99-4DBE-BAB0-BF9C57003174" _position="34" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/34">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Gaithersburg MS</school_name>
+		<address>2 Teachers Way</address>
+		<city>Gaithersburg</city>
+		<zip_code>20877</zip_code>
+		<phone>301-840-4554</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/gaithersburgms</url>
+		<longitude>-77.1875725096</longitude>
+		<latitude>39.1437648079</latitude>
+		<location human_address="{&quot;address&quot;:&quot;2 Teachers Way&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20877&quot;}" latitude="39.1437648079" longitude="-77.1875725096" needs_recoding="false" />
+	</row>
+	<row _id="35" _uuid="9076B5CB-D362-483A-8CFB-2F3A93834065" _position="35" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/35">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Montgomery Village MS</school_name>
+		<address>19300 Watkins Mill Rd</address>
+		<city>Montgomery Village</city>
+		<zip_code>20886</zip_code>
+		<phone>301-840-4660</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/mvms</url>
+		<longitude>-77.2094293659</longitude>
+		<latitude>39.1725103244</latitude>
+		<location human_address="{&quot;address&quot;:&quot;19300 Watkins Mill Rd&quot;,&quot;city&quot;:&quot;Montgomery Village&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20886&quot;}" latitude="39.1725103244" longitude="-77.2094293659" needs_recoding="false" />
+	</row>
+	<row _id="36" _uuid="680EF3B5-093B-4DB6-BE8D-6A7872F2145F" _position="36" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/36">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Roberto W Clemente MS</school_name>
+		<address>18808 Waring Station Rd</address>
+		<city>Germantown</city>
+		<zip_code>20874</zip_code>
+		<phone>301-601-0344</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/clementems</url>
+		<longitude>-77.2479808749</longitude>
+		<latitude>39.165823052</latitude>
+		<location human_address="{&quot;address&quot;:&quot;18808 Waring Station Rd&quot;,&quot;city&quot;:&quot;Germantown&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20874&quot;}" latitude="39.165823052" longitude="-77.2479808749" needs_recoding="false" />
+	</row>
+	<row _id="37" _uuid="C55F5A8E-BC15-4667-8548-765160245317" _position="37" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/37">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Ridgeview MS</school_name>
+		<address>16600 Raven Rock Dr</address>
+		<city>Gaithersburg</city>
+		<zip_code>20878</zip_code>
+		<phone>240-406-1300</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/ridgeviewms</url>
+		<longitude>-77.249263077</longitude>
+		<latitude>39.127656608</latitude>
+		<location human_address="{&quot;address&quot;:&quot;16600 Raven Rock Dr&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20878&quot;}" latitude="39.127656608" longitude="-77.249263077" needs_recoding="false" />
+	</row>
+	<row _id="38" _uuid="697EA70F-09B0-409A-B7C2-628A7747DFED" _position="38" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/38">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Robert Frost MS</school_name>
+		<address>9201 Scott Dr</address>
+		<city>Rockville</city>
+		<zip_code>20850</zip_code>
+		<phone>301-279-3949</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/robertfrostms</url>
+		<longitude>-77.1876235891</longitude>
+		<latitude>39.0759509206</latitude>
+		<location human_address="{&quot;address&quot;:&quot;9201 Scott Dr&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20850&quot;}" latitude="39.0759509206" longitude="-77.1876235891" needs_recoding="false" />
+	</row>
+	<row _id="39" _uuid="2CD66D17-1975-4701-BA21-96C66724B8E6" _position="39" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/39">
+		<category>MIDDLE SCHOOLS</category>
+		<school_name>Julius West MS</school_name>
+		<address>651 Great Falls Rd</address>
+		<city>Rockville</city>
+		<zip_code>20850</zip_code>
+		<phone>301-279-3979</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/westms</url>
+		<longitude>-77.1638855665</longitude>
+		<latitude>39.0767475193</latitude>
+		<location human_address="{&quot;address&quot;:&quot;651 Great Falls Rd&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20850&quot;}" latitude="39.0767475193" longitude="-77.1638855665" needs_recoding="false" />
+	</row>
+	<row _id="40" _uuid="AB49BD38-694E-4571-9408-F9292ECC4A92" _position="40" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/40">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Richard Montgomery HS</school_name>
+		<address>250 Richard Montgomery Dr</address>
+		<city>Rockville</city>
+		<zip_code>20852</zip_code>
+		<phone>301-610-8000</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/rmhs</url>
+		<longitude>-77.1457297834</longitude>
+		<latitude>39.0772920776</latitude>
+		<location human_address="{&quot;address&quot;:&quot;250 Richard Montgomery Dr&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20852&quot;}" latitude="39.0772920776" longitude="-77.1457297834" needs_recoding="false" />
+	</row>
+	<row _id="41" _uuid="272D6349-793A-453D-B5B6-2E128F5A2310" _position="41" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/41">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Rockville HS</school_name>
+		<address>2100 Baltimore Rd</address>
+		<city>Rockville</city>
+		<zip_code>20851</zip_code>
+		<phone>301-517-8105</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/rockvillehs</url>
+		<longitude>-77.1182723989</longitude>
+		<latitude>39.0863478113</latitude>
+		<location human_address="{&quot;address&quot;:&quot;2100 Baltimore Rd&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20851&quot;}" latitude="39.0863478113" longitude="-77.1182723989" needs_recoding="false" />
+	</row>
+	<row _id="42" _uuid="518271AD-4426-44FF-91FD-8CA84999CC3A" _position="42" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/42">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Northwest HS</school_name>
+		<address>13501 Richter Farm Rd</address>
+		<city>Germantown</city>
+		<zip_code>20874</zip_code>
+		<phone>301-601-4660</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/northwesths</url>
+		<longitude>-77.2793294162</longitude>
+		<latitude>39.1515925975</latitude>
+		<location human_address="{&quot;address&quot;:&quot;13501 Richter Farm Rd&quot;,&quot;city&quot;:&quot;Germantown&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20874&quot;}" latitude="39.1515925975" longitude="-77.2793294162" needs_recoding="false" />
+	</row>
+	<row _id="43" _uuid="450659F2-F03D-481A-B9A7-94258D9804FB" _position="43" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/43">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Walter Johnson HS</school_name>
+		<address>6400 Rock Spring Dr</address>
+		<city>Bethesda</city>
+		<zip_code>20814</zip_code>
+		<phone>301-803-7100</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/wjhs</url>
+		<longitude>-77.1301017226</longitude>
+		<latitude>39.0253918855</latitude>
+		<location human_address="{&quot;address&quot;:&quot;6400 Rock Spring Dr&quot;,&quot;city&quot;:&quot;Bethesda&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20814&quot;}" latitude="39.0253918855" longitude="-77.1301017226" needs_recoding="false" />
+	</row>
+	<row _id="44" _uuid="87DD4FE8-F4C2-4FC9-9313-04A8FC8AB002" _position="44" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/44">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Montgomery Blair HS</school_name>
+		<address>51 E University Blv</address>
+		<city>Silver Spring</city>
+		<zip_code>20901</zip_code>
+		<phone>301-649-2800</phone>
+		<url>http://www.mbhs.edu</url>
+		<longitude>-77.0124342871</longitude>
+		<latitude>39.0182729296</latitude>
+		<location human_address="{&quot;address&quot;:&quot;51 E University Blv&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20901&quot;}" latitude="39.0182729296" longitude="-77.0124342871" needs_recoding="false" />
+	</row>
+	<row _id="45" _uuid="A371384B-7BC8-4094-94DF-B05D6B393EDC" _position="45" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/45">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Poolesville HS</school_name>
+		<address>17501 Willard Rd</address>
+		<city>Poolesville</city>
+		<zip_code>20837</zip_code>
+		<phone>301-972-7900</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/poolesvillehs</url>
+		<longitude>-77.4187801451</longitude>
+		<latitude>39.1431033716</latitude>
+		<location human_address="{&quot;address&quot;:&quot;17501 Willard Rd&quot;,&quot;city&quot;:&quot;Poolesville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20837&quot;}" latitude="39.1431033716" longitude="-77.4187801451" needs_recoding="false" />
+	</row>
+	<row _id="46" _uuid="D7E9DDDF-81CF-4C6B-9CFA-782CE46B7071" _position="46" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/46">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Watkins Mill HS</school_name>
+		<address>10301 Apple Ridge Rd</address>
+		<city>Gaithersburg</city>
+		<zip_code>20879</zip_code>
+		<phone>301-840-3959</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/watkinsmillhs</url>
+		<longitude>-77.215836205</longitude>
+		<latitude>39.183966701</latitude>
+		<location human_address="{&quot;address&quot;:&quot;10301 Apple Ridge Rd&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20879&quot;}" latitude="39.183966701" longitude="-77.215836205" needs_recoding="false" />
+	</row>
+	<row _id="47" _uuid="D29028A2-AA02-4C11-90F6-F81813E46A58" _position="47" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/47">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Damascus HS</school_name>
+		<address>25921 Ridge Rd</address>
+		<city>Damascus</city>
+		<zip_code>20872</zip_code>
+		<phone>301-253-7030</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/damascushs</url>
+		<longitude>-77.2100198748</longitude>
+		<latitude>39.2824956463</latitude>
+		<location human_address="{&quot;address&quot;:&quot;25921 Ridge Rd&quot;,&quot;city&quot;:&quot;Damascus&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20872&quot;}" latitude="39.2824956463" longitude="-77.2100198748" needs_recoding="false" />
+	</row>
+	<row _id="48" _uuid="A62EF461-DA44-4E7C-909C-21546564366E" _position="48" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/48">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Walt Whitman HS</school_name>
+		<address>7100 Whittier Blv</address>
+		<city>Bethesda</city>
+		<zip_code>20817</zip_code>
+		<phone>301-320-6600</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/whitmanhs</url>
+		<longitude>-77.1276727865</longitude>
+		<latitude>38.9816307564</latitude>
+		<location human_address="{&quot;address&quot;:&quot;7100 Whittier Blv&quot;,&quot;city&quot;:&quot;Bethesda&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20817&quot;}" latitude="38.9816307564" longitude="-77.1276727865" needs_recoding="false" />
+	</row>
+	<row _id="49" _uuid="D7EE43A5-0C48-46FD-8138-EB410ECB8DC1" _position="49" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/49">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Bethesda-Chevy Chase HS</school_name>
+		<address>4301 East West Hwy</address>
+		<city>Bethesda</city>
+		<zip_code>20814</zip_code>
+		<phone>240-497-6300</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/bcchs</url>
+		<longitude>-77.0889699717</longitude>
+		<latitude>38.9868264765</latitude>
+		<location human_address="{&quot;address&quot;:&quot;4301 East West Hwy&quot;,&quot;city&quot;:&quot;Bethesda&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20814&quot;}" latitude="38.9868264765" longitude="-77.0889699717" needs_recoding="false" />
+	</row>
+	<row _id="50" _uuid="B6DD69F5-D64E-4096-9E43-F1ED8EA11C1A" _position="50" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/50">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Winston Churchill HS</school_name>
+		<address>11300 Gainsborough Rd</address>
+		<city>Potomac</city>
+		<zip_code>20854</zip_code>
+		<phone>301-469-1200</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/churchillhs</url>
+		<longitude>-77.1731281364</longitude>
+		<latitude>39.0443047898</latitude>
+		<location human_address="{&quot;address&quot;:&quot;11300 Gainsborough Rd&quot;,&quot;city&quot;:&quot;Potomac&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20854&quot;}" latitude="39.0443047898" longitude="-77.1731281364" needs_recoding="false" />
+	</row>
+	<row _id="51" _uuid="3CE22D72-DDBC-45FD-900D-F11E82088E11" _position="51" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/51">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Albert Einstein HS</school_name>
+		<address>11135 Newport Mill Rd</address>
+		<city>Kensington</city>
+		<zip_code>20895</zip_code>
+		<phone>301-929-2200</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/einsteinhs</url>
+		<longitude>-77.0670360163</longitude>
+		<latitude>39.0396158925</latitude>
+		<location human_address="{&quot;address&quot;:&quot;11135 Newport Mill Rd&quot;,&quot;city&quot;:&quot;Kensington&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20895&quot;}" latitude="39.0396158925" longitude="-77.0670360163" needs_recoding="false" />
+	</row>
+	<row _id="52" _uuid="4E01E850-6341-4744-9F8D-EA943FA37991" _position="52" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/52">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Wheaton HS</school_name>
+		<address>12601 Dalewood Dr</address>
+		<city>Silver Spring</city>
+		<zip_code>20906</zip_code>
+		<phone>301-929-2050</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/wheatonhs</url>
+		<longitude>-77.0666690813</longitude>
+		<latitude>39.0613378725</latitude>
+		<location human_address="{&quot;address&quot;:&quot;12601 Dalewood Dr&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20906&quot;}" latitude="39.0613378725" longitude="-77.0666690813" needs_recoding="false" />
+	</row>
+	<row _id="53" _uuid="349E77FD-636B-4136-B571-CF173CE10536" _position="53" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/53">
+		<category>HIGH SCHOOLS</category>
+		<school_name>John F Kennedy HS</school_name>
+		<address>1901 Randolph Rd</address>
+		<city>Silver Spring</city>
+		<zip_code>20902</zip_code>
+		<phone>301-929-2100</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/kennedyhs</url>
+		<longitude>-77.039027838</longitude>
+		<latitude>39.0657502712</latitude>
+		<location human_address="{&quot;address&quot;:&quot;1901 Randolph Rd&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20902&quot;}" latitude="39.0657502712" longitude="-77.039027838" needs_recoding="false" />
+	</row>
+	<row _id="54" _uuid="59D713CF-9014-4350-ADA6-3C970D738A19" _position="54" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/54">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Springbrook HS</school_name>
+		<address>201 Valley Brook Dr</address>
+		<city>Silver Spring</city>
+		<zip_code>20904</zip_code>
+		<phone>301-989-5700</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/springbrookhs</url>
+		<longitude>-77.0056814998</longitude>
+		<latitude>39.0578019375</latitude>
+		<location human_address="{&quot;address&quot;:&quot;201 Valley Brook Dr&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20904&quot;}" latitude="39.0578019375" longitude="-77.0056814998" needs_recoding="false" />
+	</row>
+	<row _id="55" _uuid="A3B8AE40-EA00-463E-955C-17A1461CB61D" _position="55" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/55">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Paint Branch HS</school_name>
+		<address>14121 Old Columbia Pik</address>
+		<city>Burtonsville</city>
+		<zip_code>20866</zip_code>
+		<phone>301-989-5600</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/paintbranchhs</url>
+		<longitude>-76.9471015401</longitude>
+		<latitude>39.0886791828</latitude>
+		<location human_address="{&quot;address&quot;:&quot;14121 Old Columbia Pik&quot;,&quot;city&quot;:&quot;Burtonsville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20866&quot;}" latitude="39.0886791828" longitude="-76.9471015401" needs_recoding="false" />
+	</row>
+	<row _id="56" _uuid="AC869EB9-9B7F-4480-8A1B-3DA6A4FC15AD" _position="56" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/56">
+		<category>HIGH SCHOOLS</category>
+		<school_name>James Hubert Blake HS</school_name>
+		<address>300 Norwood Rd</address>
+		<city>Silver Spring</city>
+		<zip_code>20905</zip_code>
+		<phone>301-879-1300</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/blakehs</url>
+		<longitude>-77.0175061321</longitude>
+		<latitude>39.1133304559</latitude>
+		<location human_address="{&quot;address&quot;:&quot;300 Norwood Rd&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20905&quot;}" latitude="39.1133304559" longitude="-77.0175061321" needs_recoding="false" />
+	</row>
+	<row _id="57" _uuid="A99FC95F-3750-4489-AC94-B564B1EDAE16" _position="57" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/57">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Northwood HS</school_name>
+		<address>919 University Blv W</address>
+		<city>Silver Spring</city>
+		<zip_code>20901</zip_code>
+		<phone>301-649-8088</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/northwoodhs</url>
+		<longitude>-77.0224839838</longitude>
+		<latitude>39.0356942671</latitude>
+		<location human_address="{&quot;address&quot;:&quot;919 University Blv W&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20901&quot;}" latitude="39.0356942671" longitude="-77.0224839838" needs_recoding="false" />
+	</row>
+	<row _id="58" _uuid="175E4634-7A7C-4BA8-BC48-F71A02AAF731" _position="58" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/58">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Clarksburg HS</school_name>
+		<address>22500 Wims Rd</address>
+		<city>Clarksburg</city>
+		<zip_code>20871</zip_code>
+		<phone>301-444-3000</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/clarksburghs</url>
+		<longitude>-77.2655866221</longitude>
+		<latitude>39.225501825</latitude>
+		<location human_address="{&quot;address&quot;:&quot;22500 Wims Rd&quot;,&quot;city&quot;:&quot;Clarksburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20871&quot;}" latitude="39.225501825" longitude="-77.2655866221" needs_recoding="false" />
+	</row>
+	<row _id="59" _uuid="10A81077-FEE2-4675-BDF0-5382385D0A71" _position="59" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/59">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Sherwood HS</school_name>
+		<address>300 Olney Sandy Spring Rd</address>
+		<city>Sandy Spring</city>
+		<zip_code>20860</zip_code>
+		<phone>301-924-3200</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/sherwoodhs</url>
+		<longitude>-77.018771801</longitude>
+		<latitude>39.148342372</latitude>
+		<location human_address="{&quot;address&quot;:&quot;300 Olney Sandy Spring Rd&quot;,&quot;city&quot;:&quot;Sandy Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20860&quot;}" latitude="39.148342372" longitude="-77.018771801" needs_recoding="false" />
+	</row>
+	<row _id="60" _uuid="37F6B475-D7D2-4A61-A42B-8D6318512006" _position="60" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/60">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Col Zadok Magruder HS</school_name>
+		<address>5939 Muncaster Mill Rd</address>
+		<city>Rockville</city>
+		<zip_code>20855</zip_code>
+		<phone>301-840-4600</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/magruderhs</url>
+		<longitude>-77.1188059149</longitude>
+		<latitude>39.1313109818</latitude>
+		<location human_address="{&quot;address&quot;:&quot;5939 Muncaster Mill Rd&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20855&quot;}" latitude="39.1313109818" longitude="-77.1188059149" needs_recoding="false" />
+	</row>
+	<row _id="61" _uuid="ED1ECA39-2CBD-402F-B6F4-202096AF7851" _position="61" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/61">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Gaithersburg HS</school_name>
+		<address>314 S Frederick Ave</address>
+		<city>Gaithersburg</city>
+		<zip_code>20877</zip_code>
+		<phone>301-840-4700</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/gaithsbghs</url>
+		<longitude>-77.1954776183</longitude>
+		<latitude>39.1348394458</latitude>
+		<location human_address="{&quot;address&quot;:&quot;314 S Frederick Ave&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20877&quot;}" latitude="39.1348394458" longitude="-77.1954776183" needs_recoding="false" />
+	</row>
+	<row _id="62" _uuid="81198030-D847-4326-8D76-3922593227A4" _position="62" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/62">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Seneca Valley HS</school_name>
+		<address>19401 Crystal Rock Dr</address>
+		<city>Germantown</city>
+		<zip_code>20874</zip_code>
+		<phone>301-353-8000</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/senecavalleyhs</url>
+		<longitude>-77.2643319443</longitude>
+		<latitude>39.1750937217</latitude>
+		<location human_address="{&quot;address&quot;:&quot;19401 Crystal Rock Dr&quot;,&quot;city&quot;:&quot;Germantown&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20874&quot;}" latitude="39.1750937217" longitude="-77.2643319443" needs_recoding="false" />
+	</row>
+	<row _id="63" _uuid="BED13689-8D10-4382-BD12-97545C167753" _position="63" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/63">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Quince Orchard HS</school_name>
+		<address>15800 Quince Orchard Rd</address>
+		<city>Gaithersburg</city>
+		<zip_code>20878</zip_code>
+		<phone>301-840-4686</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/qohs</url>
+		<longitude>-77.254239085</longitude>
+		<latitude>39.1159327009</latitude>
+		<location human_address="{&quot;address&quot;:&quot;15800 Quince Orchard Rd&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20878&quot;}" latitude="39.1159327009" longitude="-77.254239085" needs_recoding="false" />
+	</row>
+	<row _id="64" _uuid="4264FE55-BB9E-4963-A8A2-DD6F53CCACF3" _position="64" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/64">
+		<category>HIGH SCHOOLS</category>
+		<school_name>Thomas S Wootton HS</school_name>
+		<address>2100 Wootton Pkw</address>
+		<city>Rockville</city>
+		<zip_code>20850</zip_code>
+		<phone>301-279-8550</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/woottonhs</url>
+		<longitude>-77.1831974358</longitude>
+		<latitude>39.0765821359</latitude>
+		<location human_address="{&quot;address&quot;:&quot;2100 Wootton Pkw&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20850&quot;}" latitude="39.0765821359" longitude="-77.1831974358" needs_recoding="false" />
+	</row>
+	<row _id="65" _uuid="A62E3206-169F-4754-986E-AC0E55228907" _position="65" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/65">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Dr Sally K Ride ES</school_name>
+		<address>21301 Seneca Crossing Dr</address>
+		<city>Germantown</city>
+		<zip_code>20876</zip_code>
+		<phone>301-353-0994</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/ridees</url>
+		<longitude>-77.2373667612</longitude>
+		<latitude>39.2068179297</latitude>
+		<location human_address="{&quot;address&quot;:&quot;21301 Seneca Crossing Dr&quot;,&quot;city&quot;:&quot;Germantown&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20876&quot;}" latitude="39.2068179297" longitude="-77.2373667612" needs_recoding="false" />
+	</row>
+	<row _id="66" _uuid="D8AAD96B-4885-4DF9-9CE6-DBF53D21B881" _position="66" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/66">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Capt James E Daly ES</school_name>
+		<address>20301 Brandermill Dr</address>
+		<city>Germantown</city>
+		<zip_code>20876</zip_code>
+		<phone>301-353-0939</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/dalyes</url>
+		<longitude>-77.232435198</longitude>
+		<latitude>39.1894917072</latitude>
+		<location human_address="{&quot;address&quot;:&quot;20301 Brandermill Dr&quot;,&quot;city&quot;:&quot;Germantown&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20876&quot;}" latitude="39.1894917072" longitude="-77.232435198" needs_recoding="false" />
+	</row>
+	<row _id="67" _uuid="FA7BF238-A2B0-497A-A607-9153D9715943" _position="67" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/67">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Waters Landing ES</school_name>
+		<address>13100 Waters Landing Dr</address>
+		<city>Germantown</city>
+		<zip_code>20874</zip_code>
+		<phone>301-353-0915</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/waterslandinges</url>
+		<longitude>-77.2686132909</longitude>
+		<latitude>39.1886082714</latitude>
+		<location human_address="{&quot;address&quot;:&quot;13100 Waters Landing Dr&quot;,&quot;city&quot;:&quot;Germantown&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20874&quot;}" latitude="39.1886082714" longitude="-77.2686132909" needs_recoding="false" />
+	</row>
+	<row _id="68" _uuid="943F7557-0C3A-4EB8-8976-C34E5D1F584C" _position="68" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/68">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Damascus ES</school_name>
+		<address>10201 Bethesda Church Rd</address>
+		<city>Damascus</city>
+		<zip_code>20872</zip_code>
+		<phone>301-253-7080</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/damascuses</url>
+		<longitude>-77.2110705499</longitude>
+		<latitude>39.285505588</latitude>
+		<location human_address="{&quot;address&quot;:&quot;10201 Bethesda Church Rd&quot;,&quot;city&quot;:&quot;Damascus&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20872&quot;}" latitude="39.285505588" longitude="-77.2110705499" needs_recoding="false" />
+	</row>
+	<row _id="69" _uuid="81B61A6D-CB5B-4606-935B-2A0609F062CB" _position="69" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/69">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Cedar Grove ES</school_name>
+		<address>24001 Ridge Rd</address>
+		<city>Germantown</city>
+		<zip_code>20876</zip_code>
+		<phone>301-253-7000</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/cedargrovees</url>
+		<longitude>-77.2322649942</longitude>
+		<latitude>39.2493904272</latitude>
+		<location human_address="{&quot;address&quot;:&quot;24001 Ridge Rd&quot;,&quot;city&quot;:&quot;Germantown&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20876&quot;}" latitude="39.2493904272" longitude="-77.2322649942" needs_recoding="false" />
+	</row>
+	<row _id="70" _uuid="7E8D4E15-8526-4250-88B2-706418771547" _position="70" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/70">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Clearspring ES</school_name>
+		<address>9930 Moyer Rd</address>
+		<city>Damascus</city>
+		<zip_code>20872</zip_code>
+		<phone>301-253-7004</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/clearspringes</url>
+		<longitude>-77.2073011632</longitude>
+		<latitude>39.265783191</latitude>
+		<location human_address="{&quot;address&quot;:&quot;9930 Moyer Rd&quot;,&quot;city&quot;:&quot;Damascus&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20872&quot;}" latitude="39.265783191" longitude="-77.2073011632" needs_recoding="false" />
+	</row>
+	<row _id="71" _uuid="08F4262D-0600-4B60-BC6D-4D9C81D737C7" _position="71" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/71">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Lois P Rockwell ES</school_name>
+		<address>24555 Cutsail Dr</address>
+		<city>Damascus</city>
+		<zip_code>20872</zip_code>
+		<phone>301-253-7088</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/rockwelles</url>
+		<longitude>-77.2141008476</longitude>
+		<latitude>39.2562232443</latitude>
+		<location human_address="{&quot;address&quot;:&quot;24555 Cutsail Dr&quot;,&quot;city&quot;:&quot;Damascus&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20872&quot;}" latitude="39.2562232443" longitude="-77.2141008476" needs_recoding="false" />
+	</row>
+	<row _id="72" _uuid="99EBE80E-9022-4D83-8B4B-954AD1A249E8" _position="72" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/72">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Woodfield ES</school_name>
+		<address>24200 Woodfield Rd</address>
+		<city>Gaithersburg</city>
+		<zip_code>20879</zip_code>
+		<phone>301-253-7085</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/woodfieldes</url>
+		<longitude>-77.1982813985</longitude>
+		<latitude>39.2527827289</latitude>
+		<location human_address="{&quot;address&quot;:&quot;24200 Woodfield Rd&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20879&quot;}" latitude="39.2527827289" longitude="-77.1982813985" needs_recoding="false" />
+	</row>
+	<row _id="73" _uuid="57FBD1FD-6A8F-45E2-AFAA-A4436A472563" _position="73" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/73">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Clarksburg ES</school_name>
+		<address>13530 Redgrave Pl</address>
+		<city>Clarksburg</city>
+		<zip_code>20871</zip_code>
+		<phone>301-353-8060</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/clarksburges</url>
+		<longitude>-77.2815170741</longitude>
+		<latitude>39.2368552824</latitude>
+		<location human_address="{&quot;address&quot;:&quot;13530 Redgrave Pl&quot;,&quot;city&quot;:&quot;Clarksburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20871&quot;}" latitude="39.2368552824" longitude="-77.2815170741" needs_recoding="false" />
+	</row>
+	<row _id="74" _uuid="B0BB15DA-EB95-44A9-AEF9-01A5620ECA2B" _position="74" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/74">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Chevy Chase ES</school_name>
+		<address>4015 Rosemary St</address>
+		<city>Chevy Chase</city>
+		<zip_code>20815</zip_code>
+		<phone>301-657-4994</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/chevychasees</url>
+		<longitude>-77.0802384598</longitude>
+		<latitude>38.9785671729</latitude>
+		<location human_address="{&quot;address&quot;:&quot;4015 Rosemary St&quot;,&quot;city&quot;:&quot;Chevy Chase&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20815&quot;}" latitude="38.9785671729" longitude="-77.0802384598" needs_recoding="false" />
+	</row>
+	<row _id="75" _uuid="6817E0B1-0D0D-47E4-8FB0-DEA472986D8A" _position="75" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/75">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Bannockburn ES</school_name>
+		<address>6520 Dalroy La</address>
+		<city>Bethesda</city>
+		<zip_code>20817</zip_code>
+		<phone>301-320-6555</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/bannockburnes</url>
+		<longitude>-77.1383339932</longitude>
+		<latitude>38.974375007</latitude>
+		<location human_address="{&quot;address&quot;:&quot;6520 Dalroy La&quot;,&quot;city&quot;:&quot;Bethesda&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20817&quot;}" latitude="38.974375007" longitude="-77.1383339932" needs_recoding="false" />
+	</row>
+	<row _id="76" _uuid="4A977EF1-843E-44BA-BF4D-40DA81663FBF" _position="76" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/76">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Burning Tree ES</school_name>
+		<address>7900 Beech Tree Rd</address>
+		<city>Bethesda</city>
+		<zip_code>20817</zip_code>
+		<phone>301-320-6510</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/burningtreees</url>
+		<longitude>-77.1433852431</longitude>
+		<latitude>38.9899689499</latitude>
+		<location human_address="{&quot;address&quot;:&quot;7900 Beech Tree Rd&quot;,&quot;city&quot;:&quot;Bethesda&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20817&quot;}" latitude="38.9899689499" longitude="-77.1433852431" needs_recoding="false" />
+	</row>
+	<row _id="77" _uuid="AAB35F9B-879E-44BF-8E2D-FC9EBC706D04" _position="77" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/77">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Wood Acres ES</school_name>
+		<address>5800 Cromwell Dr</address>
+		<city>Bethesda</city>
+		<zip_code>20816</zip_code>
+		<phone>301-320-6502</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/woodacreses</url>
+		<longitude>-77.1186718959</longitude>
+		<latitude>38.9675865435</latitude>
+		<location human_address="{&quot;address&quot;:&quot;5800 Cromwell Dr&quot;,&quot;city&quot;:&quot;Bethesda&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20816&quot;}" latitude="38.9675865435" longitude="-77.1186718959" needs_recoding="false" />
+	</row>
+	<row _id="78" _uuid="105D5931-FE73-42DF-A8CD-C67C3B4BBFFB" _position="78" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/78">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Somerset ES</school_name>
+		<address>5811 Warwick Pl</address>
+		<city>Chevy Chase</city>
+		<zip_code>20815</zip_code>
+		<phone>301-657-4985</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/somersetes</url>
+		<longitude>-77.092408162</longitude>
+		<latitude>38.9691922144</latitude>
+		<location human_address="{&quot;address&quot;:&quot;5811 Warwick Pl&quot;,&quot;city&quot;:&quot;Chevy Chase&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20815&quot;}" latitude="38.9691922144" longitude="-77.092408162" needs_recoding="false" />
+	</row>
+	<row _id="79" _uuid="88A5601F-848C-4514-B319-120CC94E7C46" _position="79" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/79">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Westbrook ES</school_name>
+		<address>5110 Allan Ter</address>
+		<city>Bethesda</city>
+		<zip_code>20816</zip_code>
+		<phone>301-320-6506</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/westbrookes</url>
+		<longitude>-77.1028193264</longitude>
+		<latitude>38.9584710865</latitude>
+		<location human_address="{&quot;address&quot;:&quot;5110 Allan Ter&quot;,&quot;city&quot;:&quot;Bethesda&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20816&quot;}" latitude="38.9584710865" longitude="-77.1028193264" needs_recoding="false" />
+	</row>
+	<row _id="80" _uuid="37D94EB0-735F-4665-9FF6-72DDC2A084CA" _position="80" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/80">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Bethesda ES</school_name>
+		<address>7600 Arlington Rd</address>
+		<city>Bethesda</city>
+		<zip_code>20814</zip_code>
+		<phone>301-657-4979</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/bethesdaes</url>
+		<longitude>-77.0998645245</longitude>
+		<latitude>38.9864595389</latitude>
+		<location human_address="{&quot;address&quot;:&quot;7600 Arlington Rd&quot;,&quot;city&quot;:&quot;Bethesda&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20814&quot;}" latitude="38.9864595389" longitude="-77.0998645245" needs_recoding="false" />
+	</row>
+	<row _id="81" _uuid="2D9EEBD6-5E4C-4D29-A04D-C2A83E264A6B" _position="81" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/81">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Bradley Hills ES</school_name>
+		<address>8701 Hartsdale Ave</address>
+		<city>Bethesda</city>
+		<zip_code>20817</zip_code>
+		<phone>301-571-6966</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/bradleyhillses</url>
+		<longitude>-77.118061653</longitude>
+		<latitude>38.9996852991</latitude>
+		<location human_address="{&quot;address&quot;:&quot;8701 Hartsdale Ave&quot;,&quot;city&quot;:&quot;Bethesda&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20817&quot;}" latitude="38.9996852991" longitude="-77.118061653" needs_recoding="false" />
+	</row>
+	<row _id="82" _uuid="C542F8EF-8524-41FC-95DD-FED099769089" _position="82" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/82">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Wayside ES</school_name>
+		<address>10011 Glen Rd</address>
+		<city>Potomac</city>
+		<zip_code>20854</zip_code>
+		<phone>301-279-8484</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/waysidees</url>
+		<longitude>-77.2061907116</longitude>
+		<latitude>39.0475503295</latitude>
+		<location human_address="{&quot;address&quot;:&quot;10011 Glen Rd&quot;,&quot;city&quot;:&quot;Potomac&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20854&quot;}" latitude="39.0475503295" longitude="-77.2061907116" needs_recoding="false" />
+	</row>
+	<row _id="83" _uuid="C16DE53E-418E-47BC-A9AC-EF6054AC8A15" _position="83" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/83">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Beverly Farms ES (Construction)</school_name>
+		<address>8501 Post Oak Rd</address>
+		<city>Potomac</city>
+		<zip_code>20854</zip_code>
+		<phone>301-469-1050</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/beverlyfarmses</url>
+		<longitude>-77.1763322374</longitude>
+		<latitude>39.052145262</latitude>
+		<location human_address="{&quot;address&quot;:&quot;8501 Post Oak Rd&quot;,&quot;city&quot;:&quot;Potomac&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20854&quot;}" latitude="39.052145262" longitude="-77.1763322374" needs_recoding="false" />
+	</row>
+	<row _id="84" _uuid="CCFC494E-D599-4A3E-A0CC-4732E880D9EE" _position="84" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/84">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Ritchie Park ES</school_name>
+		<address>1514 Dunster Rd</address>
+		<city>Rockville</city>
+		<zip_code>20854</zip_code>
+		<phone>301-279-8475</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/ritchieparkes</url>
+		<longitude>-77.1744365305</longitude>
+		<latitude>39.0631353305</latitude>
+		<location human_address="{&quot;address&quot;:&quot;1514 Dunster Rd&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20854&quot;}" latitude="39.0631353305" longitude="-77.1744365305" needs_recoding="false" />
+	</row>
+	<row _id="85" _uuid="84DF1217-2157-45FB-AD4A-EA4ED8A58303" _position="85" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/85">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Farmland ES</school_name>
+		<address>7000 Old Gate Rd</address>
+		<city>Rockville</city>
+		<zip_code>20852</zip_code>
+		<phone>301-230-5919</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/farmlandes</url>
+		<longitude>-77.1452755671</longitude>
+		<latitude>39.0471937956</latitude>
+		<location human_address="{&quot;address&quot;:&quot;7000 Old Gate Rd&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20852&quot;}" latitude="39.0471937956" longitude="-77.1452755671" needs_recoding="false" />
+	</row>
+	<row _id="86" _uuid="4008BE85-19E6-4634-9CB5-63E354362AAF" _position="86" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/86">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Luxmanor ES</school_name>
+		<address>6201 Tilden La</address>
+		<city>Rockville</city>
+		<zip_code>20852</zip_code>
+		<phone>301-230-5914</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/luxmanores</url>
+		<longitude>-77.1272246138</longitude>
+		<latitude>39.0448713701</latitude>
+		<location human_address="{&quot;address&quot;:&quot;6201 Tilden La&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20852&quot;}" latitude="39.0448713701" longitude="-77.1272246138" needs_recoding="false" />
+	</row>
+	<row _id="87" _uuid="151D35DF-B823-4606-A50E-C7B4D156C5DA" _position="87" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/87">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Bells Mill ES</school_name>
+		<address>8225 Bells Mill Rd</address>
+		<city>Potomac</city>
+		<zip_code>20854</zip_code>
+		<phone>301-469-1046</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/bellsmilles</url>
+		<longitude>-77.1687400874</longitude>
+		<latitude>39.0320119149</latitude>
+		<location human_address="{&quot;address&quot;:&quot;8225 Bells Mill Rd&quot;,&quot;city&quot;:&quot;Potomac&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20854&quot;}" latitude="39.0320119149" longitude="-77.1687400874" needs_recoding="false" />
+	</row>
+	<row _id="88" _uuid="7808C320-13ED-456F-A4B9-86AADDE9ADC0" _position="88" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/88">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Potomac ES</school_name>
+		<address>10311 River Rd</address>
+		<city>Potomac</city>
+		<zip_code>20854</zip_code>
+		<phone>301-469-1042</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/potomaces</url>
+		<longitude>-77.2132952636</longitude>
+		<latitude>39.0216533251</latitude>
+		<location human_address="{&quot;address&quot;:&quot;10311 River Rd&quot;,&quot;city&quot;:&quot;Potomac&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20854&quot;}" latitude="39.0216533251" longitude="-77.2132952636" needs_recoding="false" />
+	</row>
+	<row _id="89" _uuid="B8FEC56B-F89D-4C88-83FD-429AFF004AB4" _position="89" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/89">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Seven Locks ES (at Radnor Center)</school_name>
+		<address>7000 Radnor Rd</address>
+		<city>Bethesda</city>
+		<zip_code>20817</zip_code>
+		<phone>301-469-1038</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/sevenlockses</url>
+		<longitude>-77.114718632</longitude>
+		<latitude>38.9790958064</latitude>
+		<location human_address="{&quot;address&quot;:&quot;7000 Radnor Rd&quot;,&quot;city&quot;:&quot;Bethesda&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20817&quot;}" latitude="38.9790958064" longitude="-77.114718632" needs_recoding="false" />
+	</row>
+	<row _id="90" _uuid="4109EB13-8A50-4995-BB60-FB4322F4D7E0" _position="90" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/90">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Seven Locks ES (Construction)</school_name>
+		<address>9500 Seven Locks Rd</address>
+		<city>Bethesda</city>
+		<zip_code>20817</zip_code>
+		<phone>301-469-1038</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/sevenlockses</url>
+		<longitude>-77.16113969</longitude>
+		<latitude>39.0123627913</latitude>
+		<location human_address="{&quot;address&quot;:&quot;9500 Seven Locks Rd&quot;,&quot;city&quot;:&quot;Bethesda&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20817&quot;}" latitude="39.0123627913" longitude="-77.16113969" needs_recoding="false" />
+	</row>
+	<row _id="91" _uuid="22967432-C4A5-4D4F-B7CA-A4082A75DFFC" _position="91" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/91">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Ashburton ES</school_name>
+		<address>6314 Lone Oak Dr</address>
+		<city>Bethesda</city>
+		<zip_code>20817</zip_code>
+		<phone>301-571-6959</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/ashburtones</url>
+		<longitude>-77.1277212211</longitude>
+		<latitude>39.0194442555</latitude>
+		<location human_address="{&quot;address&quot;:&quot;6314 Lone Oak Dr&quot;,&quot;city&quot;:&quot;Bethesda&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20817&quot;}" latitude="39.0194442555" longitude="-77.1277212211" needs_recoding="false" />
+	</row>
+	<row _id="92" _uuid="0C77EB80-2920-4306-AFDD-FD5732871676" _position="92" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/92">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Wyngate ES</school_name>
+		<address>9300 Wadsworth Dr</address>
+		<city>Bethesda</city>
+		<zip_code>20817</zip_code>
+		<phone>301-571-6979</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/wyngatees</url>
+		<longitude>-77.1282437122</longitude>
+		<latitude>39.0093256299</latitude>
+		<location human_address="{&quot;address&quot;:&quot;9300 Wadsworth Dr&quot;,&quot;city&quot;:&quot;Bethesda&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20817&quot;}" latitude="39.0093256299" longitude="-77.1282437122" needs_recoding="false" />
+	</row>
+	<row _id="93" _uuid="766F127C-C394-4114-99B5-670837AC09DA" _position="93" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/93">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Garrett Park ES (Construction)</school_name>
+		<address>4810 Oxford St</address>
+		<city>Garrett Park</city>
+		<zip_code>20896</zip_code>
+		<phone>301-929-2170</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/garrettparkes</url>
+		<longitude>-77.0965815552</longitude>
+		<latitude>39.0330455094</latitude>
+		<location human_address="{&quot;address&quot;:&quot;4810 Oxford St&quot;,&quot;city&quot;:&quot;Garrett Park&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20896&quot;}" latitude="39.0330455094" longitude="-77.0965815552" needs_recoding="false" />
+	</row>
+	<row _id="94" _uuid="E7D226F5-4B84-4CE8-8248-9E1F5D176678" _position="94" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/94">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Kensington Parkwood ES</school_name>
+		<address>4710 Saul Rd</address>
+		<city>Kensington</city>
+		<zip_code>20895</zip_code>
+		<phone>301-571-6949</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/parkwoodes</url>
+		<longitude>-77.0949119854</longitude>
+		<latitude>39.0217956579</latitude>
+		<location human_address="{&quot;address&quot;:&quot;4710 Saul Rd&quot;,&quot;city&quot;:&quot;Kensington&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20895&quot;}" latitude="39.0217956579" longitude="-77.0949119854" needs_recoding="false" />
+	</row>
+	<row _id="95" _uuid="67A26E45-D52E-47AF-97B5-20F36B2CA252" _position="95" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/95">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Rock Creek Forest ES</school_name>
+		<address>8330 Grubb Rd</address>
+		<city>Chevy Chase</city>
+		<zip_code>20815</zip_code>
+		<phone>301-650-6410</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/rcforestes</url>
+		<longitude>-77.0512978748</longitude>
+		<latitude>38.9922962885</latitude>
+		<location human_address="{&quot;address&quot;:&quot;8330 Grubb Rd&quot;,&quot;city&quot;:&quot;Chevy Chase&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20815&quot;}" latitude="38.9922962885" longitude="-77.0512978748" needs_recoding="false" />
+	</row>
+	<row _id="96" _uuid="4D02AA3F-DB57-4DF5-9BA0-D008912727F6" _position="96" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/96">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Woodlin ES</school_name>
+		<address>2101 Luzerne Ave</address>
+		<city>Silver Spring</city>
+		<zip_code>20910</zip_code>
+		<phone>301-650-6440</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/woodlines</url>
+		<longitude>-77.0467716274</longitude>
+		<latitude>39.0065373884</latitude>
+		<location human_address="{&quot;address&quot;:&quot;2101 Luzerne Ave&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20910&quot;}" latitude="39.0065373884" longitude="-77.0467716274" needs_recoding="false" />
+	</row>
+	<row _id="97" _uuid="93B5291E-22E8-4443-B80C-2AC1DE70C27D" _position="97" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/97">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Rosemary Hills ES</school_name>
+		<address>2111 Porter Rd</address>
+		<city>Silver Spring</city>
+		<zip_code>20910</zip_code>
+		<phone>301-650-6400</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/rosemaryhillses</url>
+		<longitude>-77.0451517607</longitude>
+		<latitude>39.0013306373</latitude>
+		<location human_address="{&quot;address&quot;:&quot;2111 Porter Rd&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20910&quot;}" latitude="39.0013306373" longitude="-77.0451517607" needs_recoding="false" />
+	</row>
+	<row _id="98" _uuid="5D5A887F-8A7B-48F5-A418-500989772C9F" _position="98" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/98">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Piney Branch ES</school_name>
+		<address>7510 Maple Ave</address>
+		<city>Takoma Park</city>
+		<zip_code>20912</zip_code>
+		<phone>301-891-8000</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/pineybranches</url>
+		<longitude>-77.0093788825</longitude>
+		<latitude>38.9821316553</latitude>
+		<location human_address="{&quot;address&quot;:&quot;7510 Maple Ave&quot;,&quot;city&quot;:&quot;Takoma Park&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20912&quot;}" latitude="38.9821316553" longitude="-77.0093788825" needs_recoding="false" />
+	</row>
+	<row _id="99" _uuid="D9F9853C-7F05-4A8A-9B82-E65421DA2D71" _position="99" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/99">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>East Silver Spring ES</school_name>
+		<address>631 Silver Spring Ave</address>
+		<city>Silver Spring</city>
+		<zip_code>20910</zip_code>
+		<phone>301-650-6420</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/eastsilverspringes</url>
+		<longitude>-77.0152105919</longitude>
+		<latitude>38.9923950104</latitude>
+		<location human_address="{&quot;address&quot;:&quot;631 Silver Spring Ave&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20910&quot;}" latitude="38.9923950104" longitude="-77.0152105919" needs_recoding="false" />
+	</row>
+	<row _id="100" _uuid="20E45EE2-871E-4E62-AA47-94B99BB9BD36" _position="100" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/100">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Takoma Park ES</school_name>
+		<address>7511 Holly Ave</address>
+		<city>Takoma Park</city>
+		<zip_code>20912</zip_code>
+		<phone>301-650-6414</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/takomaparkes</url>
+		<longitude>-77.0124148794</longitude>
+		<latitude>38.9826597502</latitude>
+		<location human_address="{&quot;address&quot;:&quot;7511 Holly Ave&quot;,&quot;city&quot;:&quot;Takoma Park&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20912&quot;}" latitude="38.9826597502" longitude="-77.0124148794" needs_recoding="false" />
+	</row>
+	<row _id="101" _uuid="80D6632B-FED5-47A1-9F03-2FFBB66F773F" _position="101" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/101">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>North Chevy Chase ES</school_name>
+		<address>3700 Jones Bridge Rd</address>
+		<city>Chevy Chase</city>
+		<zip_code>20815</zip_code>
+		<phone>301-657-4950</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/nchevychasees</url>
+		<longitude>-77.073432352</longitude>
+		<latitude>38.9987705251</latitude>
+		<location human_address="{&quot;address&quot;:&quot;3700 Jones Bridge Rd&quot;,&quot;city&quot;:&quot;Chevy Chase&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20815&quot;}" latitude="38.9987705251" longitude="-77.073432352" needs_recoding="false" />
+	</row>
+	<row _id="102" _uuid="B4BEAF1B-F408-4C73-B3A4-97BA66DC0588" _position="102" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/102">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Pine Crest ES</school_name>
+		<address>201 Woodmoor Dr</address>
+		<city>Silver Spring</city>
+		<zip_code>20901</zip_code>
+		<phone>301-649-8066</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/pinecrestes</url>
+		<longitude>-77.0050375472</longitude>
+		<latitude>39.0213110705</latitude>
+		<location human_address="{&quot;address&quot;:&quot;201 Woodmoor Dr&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20901&quot;}" latitude="39.0213110705" longitude="-77.0050375472" needs_recoding="false" />
+	</row>
+	<row _id="103" _uuid="DEBF0FC8-09BA-4C3A-8548-26DD602A1B28" _position="103" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/103">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Cresthaven ES</school_name>
+		<address>1234 Cresthaven Dr</address>
+		<city>Silver Spring</city>
+		<zip_code>20903</zip_code>
+		<phone>301-431-7622</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/cresthavenes</url>
+		<longitude>-76.9876315723</longitude>
+		<latitude>39.0274886611</latitude>
+		<location human_address="{&quot;address&quot;:&quot;1234 Cresthaven Dr&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20903&quot;}" latitude="39.0274886611" longitude="-76.9876315723" needs_recoding="false" />
+	</row>
+	<row _id="104" _uuid="452809B6-1B2C-40C2-BC60-7728C0BB2515" _position="104" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/104">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Oak View ES</school_name>
+		<address>400 E Wayne Ave</address>
+		<city>Silver Spring</city>
+		<zip_code>20901</zip_code>
+		<phone>301-650-6434</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/oakviewes</url>
+		<longitude>-77.0024156168</longitude>
+		<latitude>39.0045260505</latitude>
+		<location human_address="{&quot;address&quot;:&quot;400 E Wayne Ave&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20901&quot;}" latitude="39.0045260505" longitude="-77.0024156168" needs_recoding="false" />
+	</row>
+	<row _id="105" _uuid="3A544980-87DC-43DB-9AC3-4FC6CA4B837B" _position="105" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/105">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Highland View ES</school_name>
+		<address>9010 Providence Ave</address>
+		<city>Silver Spring</city>
+		<zip_code>20901</zip_code>
+		<phone>301-650-6426</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/highlandviewes</url>
+		<longitude>-77.0103578619</longitude>
+		<latitude>39.0042511332</latitude>
+		<location human_address="{&quot;address&quot;:&quot;9010 Providence Ave&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20901&quot;}" latitude="39.0042511332" longitude="-77.0103578619" needs_recoding="false" />
+	</row>
+	<row _id="106" _uuid="8B64AEDB-74D2-4160-B7CE-988D175D555D" _position="106" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/106">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Montgomery Knolls ES</school_name>
+		<address>807 Daleview Dr</address>
+		<city>Silver Spring</city>
+		<zip_code>20901</zip_code>
+		<phone>301-431-7667</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/knollses</url>
+		<longitude>-76.9931786787</longitude>
+		<latitude>39.0057482268</latitude>
+		<location human_address="{&quot;address&quot;:&quot;807 Daleview Dr&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20901&quot;}" latitude="39.0057482268" longitude="-76.9931786787" needs_recoding="false" />
+	</row>
+	<row _id="107" _uuid="7DB0CB7C-C297-47F4-9E91-E0FE6B358288" _position="107" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/107">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Broad Acres ES</school_name>
+		<address>710 Beacon Rd</address>
+		<city>Silver Spring</city>
+		<zip_code>20903</zip_code>
+		<phone>301-431-7616</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/broadacreses</url>
+		<longitude>-76.9851884399</longitude>
+		<latitude>39.0093594505</latitude>
+		<location human_address="{&quot;address&quot;:&quot;710 Beacon Rd&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20903&quot;}" latitude="39.0093594505" longitude="-76.9851884399" needs_recoding="false" />
+	</row>
+	<row _id="108" _uuid="06FF1397-F062-4B59-B858-13021C7692F8" _position="108" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/108">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>New Hampshire Estates ES</school_name>
+		<address>8720 Carroll Ave</address>
+		<city>Silver Spring</city>
+		<zip_code>20903</zip_code>
+		<phone>301-431-7607</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/nhees</url>
+		<longitude>-76.9923045793</longitude>
+		<latitude>38.9981968148</latitude>
+		<location human_address="{&quot;address&quot;:&quot;8720 Carroll Ave&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20903&quot;}" latitude="38.9981968148" longitude="-76.9923045793" needs_recoding="false" />
+	</row>
+	<row _id="109" _uuid="DCC4572A-FAF5-4217-9247-45FAF700F5C8" _position="109" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/109">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Rolling Terrace ES</school_name>
+		<address>705 Bayfield St</address>
+		<city>Takoma Park</city>
+		<zip_code>20912</zip_code>
+		<phone>301-431-7600</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/rollinges</url>
+		<longitude>-76.9972611451</longitude>
+		<latitude>38.995168098</latitude>
+		<location human_address="{&quot;address&quot;:&quot;705 Bayfield St&quot;,&quot;city&quot;:&quot;Takoma Park&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20912&quot;}" latitude="38.995168098" longitude="-76.9972611451" needs_recoding="false" />
+	</row>
+	<row _id="110" _uuid="AA218439-4785-4099-8D89-6E01782427E8" _position="110" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/110">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Highland ES</school_name>
+		<address>3100 Medway St</address>
+		<city>Silver Spring</city>
+		<zip_code>20902</zip_code>
+		<phone>301-929-2040</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/highlandes</url>
+		<longitude>-77.0639085292</longitude>
+		<latitude>39.0511227</latitude>
+		<location human_address="{&quot;address&quot;:&quot;3100 Medway St&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20902&quot;}" latitude="39.0511227" longitude="-77.0639085292" needs_recoding="false" />
+	</row>
+	<row _id="111" _uuid="EC5E73DC-607A-4ED6-B05C-355756B944DF" _position="111" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/111">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Oakland Terrace ES</school_name>
+		<address>2720 Plyers Mill Rd</address>
+		<city>Silver Spring</city>
+		<zip_code>20902</zip_code>
+		<phone>301-929-2161</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/oaklandes</url>
+		<longitude>-77.0573923387</longitude>
+		<latitude>39.0286194203</latitude>
+		<location human_address="{&quot;address&quot;:&quot;2720 Plyers Mill Rd&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20902&quot;}" latitude="39.0286194203" longitude="-77.0573923387" needs_recoding="false" />
+	</row>
+	<row _id="112" _uuid="1D80A9EB-FFE6-4E4E-BFB0-D2F0C256430E" _position="112" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/112">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Rock View ES</school_name>
+		<address>3901 Denfeld Ave</address>
+		<city>Kensington</city>
+		<zip_code>20895</zip_code>
+		<phone>301-929-2002</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/rockviewes</url>
+		<longitude>-77.0769950641</longitude>
+		<latitude>39.0395140953</latitude>
+		<location human_address="{&quot;address&quot;:&quot;3901 Denfeld Ave&quot;,&quot;city&quot;:&quot;Kensington&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20895&quot;}" latitude="39.0395140953" longitude="-77.0769950641" needs_recoding="false" />
+	</row>
+	<row _id="113" _uuid="EE30A5B1-834C-4D02-9BD9-12B56C87F1A7" _position="113" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/113">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Viers Mill ES</school_name>
+		<address>11711 Joseph Mill Rd</address>
+		<city>Silver Spring</city>
+		<zip_code>20906</zip_code>
+		<phone>301-929-2165</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/viersmilles</url>
+		<longitude>-77.0852891291</longitude>
+		<latitude>39.048502748</latitude>
+		<location human_address="{&quot;address&quot;:&quot;11711 Joseph Mill Rd&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20906&quot;}" latitude="39.048502748" longitude="-77.0852891291" needs_recoding="false" />
+	</row>
+	<row _id="114" _uuid="CCA192F8-82A7-4083-899F-4842910BA44B" _position="114" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/114">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Wheaton Woods ES</school_name>
+		<address>4510 Faroe Pl</address>
+		<city>Rockville</city>
+		<zip_code>20853</zip_code>
+		<phone>301-929-2018</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/wheatonwoodses</url>
+		<longitude>-77.0902208543</longitude>
+		<latitude>39.0682491425</latitude>
+		<location human_address="{&quot;address&quot;:&quot;4510 Faroe Pl&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20853&quot;}" latitude="39.0682491425" longitude="-77.0902208543" needs_recoding="false" />
+	</row>
+	<row _id="115" _uuid="61CCEAAE-4D96-4978-8BF8-363C5FFC77AB" _position="115" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/115">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Weller Road ES</school_name>
+		<address>3301 Weller Rd</address>
+		<city>Silver Spring</city>
+		<zip_code>20906</zip_code>
+		<phone>301-929-2010</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/wellerroades</url>
+		<longitude>-77.06706298</longitude>
+		<latitude>39.0654368354</latitude>
+		<location human_address="{&quot;address&quot;:&quot;3301 Weller Rd&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20906&quot;}" latitude="39.0654368354" longitude="-77.06706298" needs_recoding="false" />
+	</row>
+	<row _id="116" _uuid="4337D912-59B1-498F-9BD0-7C3E0993C619" _position="116" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/116">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Georgian Forest ES</school_name>
+		<address>3100 Regina Dr</address>
+		<city>Silver Spring</city>
+		<zip_code>20906</zip_code>
+		<phone>301-460-2170</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/georgianforestes</url>
+		<longitude>-77.0614546922</longitude>
+		<latitude>39.0756428629</latitude>
+		<location human_address="{&quot;address&quot;:&quot;3100 Regina Dr&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20906&quot;}" latitude="39.0756428629" longitude="-77.0614546922" needs_recoding="false" />
+	</row>
+	<row _id="117" _uuid="2B9B1CFF-87B1-4ECC-83B1-E1DC1D5C99E1" _position="117" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/117">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Harmony Hills ES</school_name>
+		<address>13407 Lydia St</address>
+		<city>Silver Spring</city>
+		<zip_code>20906</zip_code>
+		<phone>301-929-2157</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/harmonyhillses</url>
+		<longitude>-77.0761131795</longitude>
+		<latitude>39.0766059586</latitude>
+		<location human_address="{&quot;address&quot;:&quot;13407 Lydia St&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20906&quot;}" latitude="39.0766059586" longitude="-77.0761131795" needs_recoding="false" />
+	</row>
+	<row _id="118" _uuid="D651FA4A-762C-4244-A898-A7612D0A9419" _position="118" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/118">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Bel Pre ES</school_name>
+		<address>13801 Rippling Brook Dr</address>
+		<city>Silver Spring</city>
+		<zip_code>20906</zip_code>
+		<phone>301-460-2145</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/belprees</url>
+		<longitude>-77.0547238659</longitude>
+		<latitude>39.0816042674</latitude>
+		<location human_address="{&quot;address&quot;:&quot;13801 Rippling Brook Dr&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20906&quot;}" latitude="39.0816042674" longitude="-77.0547238659" needs_recoding="false" />
+	</row>
+	<row _id="119" _uuid="98D4519E-1F9F-4222-8987-F7D178CF7ADE" _position="119" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/119">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Glen Haven ES</school_name>
+		<address>10900 Inwood Ave</address>
+		<city>Silver Spring</city>
+		<zip_code>20902</zip_code>
+		<phone>301-649-8051</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/glenhavenes</url>
+		<longitude>-77.0370393611</longitude>
+		<latitude>39.0338425388</latitude>
+		<location human_address="{&quot;address&quot;:&quot;10900 Inwood Ave&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20902&quot;}" latitude="39.0338425388" longitude="-77.0370393611" needs_recoding="false" />
+	</row>
+	<row _id="120" _uuid="160B5E73-087D-4C86-9153-CFCE5DB25C1F" _position="120" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/120">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Kemp Mill ES</school_name>
+		<address>411 Sisson St</address>
+		<city>Silver Spring</city>
+		<zip_code>20902</zip_code>
+		<phone>301-649-8046</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/kempmilles</url>
+		<longitude>-77.0170471225</longitude>
+		<latitude>39.0436381558</latitude>
+		<location human_address="{&quot;address&quot;:&quot;411 Sisson St&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20902&quot;}" latitude="39.0436381558" longitude="-77.0170471225" needs_recoding="false" />
+	</row>
+	<row _id="121" _uuid="CDF3D368-BE61-4277-A45B-62218BBA3E98" _position="121" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/121">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Burnt Mills ES</school_name>
+		<address>11211 Childs St</address>
+		<city>Silver Spring</city>
+		<zip_code>20901</zip_code>
+		<phone>301-649-8192</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/burntmillses</url>
+		<longitude>-77.0017610753</longitude>
+		<latitude>39.0394753102</latitude>
+		<location human_address="{&quot;address&quot;:&quot;11211 Childs St&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20901&quot;}" latitude="39.0394753102" longitude="-77.0017610753" needs_recoding="false" />
+	</row>
+	<row _id="122" _uuid="D3894E7E-AFE1-4131-928E-82CA7B69A3BB" _position="122" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/122">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Forest Knolls ES</school_name>
+		<address>10830 Eastwood Ave</address>
+		<city>Silver Spring</city>
+		<zip_code>20901</zip_code>
+		<phone>301-649-8060</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/forestknollses</url>
+		<longitude>-77.0204193723</longitude>
+		<latitude>39.0333104381</latitude>
+		<location human_address="{&quot;address&quot;:&quot;10830 Eastwood Ave&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20901&quot;}" latitude="39.0333104381" longitude="-77.0204193723" needs_recoding="false" />
+	</row>
+	<row _id="123" _uuid="2F3A6D57-55B7-486A-B87A-7C9AF5211448" _position="123" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/123">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Glenallan ES</school_name>
+		<address>12520 Heurich Rd</address>
+		<city>Silver Spring</city>
+		<zip_code>20902</zip_code>
+		<phone>301-929-2014</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/glenallanes</url>
+		<longitude>-77.0413621208</longitude>
+		<latitude>39.0613561538</latitude>
+		<location human_address="{&quot;address&quot;:&quot;12520 Heurich Rd&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20902&quot;}" latitude="39.0613561538" longitude="-77.0413621208" needs_recoding="false" />
+	</row>
+	<row _id="124" _uuid="957E032D-311D-4D8D-A77E-427827978F11" _position="124" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/124">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Westover ES</school_name>
+		<address>401 Hawkesbury La</address>
+		<city>Silver Spring</city>
+		<zip_code>20904</zip_code>
+		<phone>301-989-5676</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/westoveres</url>
+		<longitude>-77.0180223922</longitude>
+		<latitude>39.0748642774</latitude>
+		<location human_address="{&quot;address&quot;:&quot;401 Hawkesbury La&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20904&quot;}" latitude="39.0748642774" longitude="-77.0180223922" needs_recoding="false" />
+	</row>
+	<row _id="125" _uuid="7659A141-F119-4ADC-827D-064F679953BE" _position="125" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/125">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Cannon Road ES (Construction)</school_name>
+		<address>901 Cannon Rd</address>
+		<city>Silver Spring</city>
+		<zip_code>20904</zip_code>
+		<phone>301-989-5662</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/cannonroades</url>
+		<longitude>-76.9941729238</longitude>
+		<latitude>39.0687671595</latitude>
+		<location human_address="{&quot;address&quot;:&quot;901 Cannon Rd&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20904&quot;}" latitude="39.0687671595" longitude="-76.9941729238" needs_recoding="false" />
+	</row>
+	<row _id="126" _uuid="D98FB9AE-E0A5-4CBB-A764-75FA4A05012C" _position="126" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/126">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>William T Page ES</school_name>
+		<address>13400 Tamarack Rd</address>
+		<city>Silver Spring</city>
+		<zip_code>20904</zip_code>
+		<phone>301-989-5672</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/pagees</url>
+		<longitude>-76.9835905797</longitude>
+		<latitude>39.0749086167</latitude>
+		<location human_address="{&quot;address&quot;:&quot;13400 Tamarack Rd&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20904&quot;}" latitude="39.0749086167" longitude="-76.9835905797" needs_recoding="false" />
+	</row>
+	<row _id="127" _uuid="7175E86D-8B8D-426B-BB75-B5BD8697062B" _position="127" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/127">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Jackson Road ES</school_name>
+		<address>900 Jackson Rd</address>
+		<city>Silver Spring</city>
+		<zip_code>20904</zip_code>
+		<phone>301-989-5650</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/jacksonroades</url>
+		<longitude>-76.9918070316</longitude>
+		<latitude>39.0564225207</latitude>
+		<location human_address="{&quot;address&quot;:&quot;900 Jackson Rd&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20904&quot;}" latitude="39.0564225207" longitude="-76.9918070316" needs_recoding="false" />
+	</row>
+	<row _id="128" _uuid="6C436789-4F5D-4A3A-96A3-3A7A6A12412B" _position="128" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/128">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Galway ES</school_name>
+		<address>12612 Galway Dr</address>
+		<city>Silver Spring</city>
+		<zip_code>20904</zip_code>
+		<phone>301-595-2930</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/galwayes</url>
+		<longitude>-76.9463103201</longitude>
+		<latitude>39.0639572983</latitude>
+		<location human_address="{&quot;address&quot;:&quot;12612 Galway Dr&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20904&quot;}" latitude="39.0639572983" longitude="-76.9463103201" needs_recoding="false" />
+	</row>
+	<row _id="129" _uuid="7B9C1CAF-33B6-43DB-94FA-9746FD026A36" _position="129" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/129">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Greencastle ES</school_name>
+		<address>13611 Robey Rd</address>
+		<city>Silver Spring</city>
+		<zip_code>20904</zip_code>
+		<phone>301-595-2940</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/greencastlees</url>
+		<longitude>-76.9417549222</longitude>
+		<latitude>39.0804194508</latitude>
+		<location human_address="{&quot;address&quot;:&quot;13611 Robey Rd&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20904&quot;}" latitude="39.0804194508" longitude="-76.9417549222" needs_recoding="false" />
+	</row>
+	<row _id="130" _uuid="A5B0FEB7-7E52-426A-B0D4-0D81FCA4975F" _position="130" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/130">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Fairland ES</school_name>
+		<address>14315 Fairdale Rd</address>
+		<city>Silver Spring</city>
+		<zip_code>20905</zip_code>
+		<phone>301-989-5658</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/fairlandes</url>
+		<longitude>-76.9561706003</longitude>
+		<latitude>39.0906439188</latitude>
+		<location human_address="{&quot;address&quot;:&quot;14315 Fairdale Rd&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20905&quot;}" latitude="39.0906439188" longitude="-76.9561706003" needs_recoding="false" />
+	</row>
+	<row _id="131" _uuid="1EC002AB-4ACC-4FA3-B9B5-37DF797C29AE" _position="131" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/131">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Spark M Matsunaga ES</school_name>
+		<address>13902 Bromfield Road</address>
+		<city>Germantown</city>
+		<zip_code>20874</zip_code>
+		<phone>301-601-4350</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/matsunagaes</url>
+		<longitude>-77.2927303852</longitude>
+		<latitude>39.1507070468</latitude>
+		<location human_address="{&quot;address&quot;:&quot;13902 Bromfield Road&quot;,&quot;city&quot;:&quot;Germantown&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20874&quot;}" latitude="39.1507070468" longitude="-77.2927303852" needs_recoding="false" />
+	</row>
+	<row _id="132" _uuid="648F44BC-EBF8-474A-B93F-0271F62F811E" _position="132" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/132">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Sligo Creek ES</school_name>
+		<address>500 Schuyler Rd</address>
+		<city>Silver Spring</city>
+		<zip_code>20910</zip_code>
+		<phone>301-562-2722</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/sligocreekes</url>
+		<longitude>-77.0157924626</longitude>
+		<latitude>39.0004315169</latitude>
+		<location human_address="{&quot;address&quot;:&quot;500 Schuyler Rd&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20910&quot;}" latitude="39.0004315169" longitude="-77.0157924626" needs_recoding="false" />
+	</row>
+	<row _id="133" _uuid="64AAEF4F-C41F-4E79-950F-B599AA4C81F3" _position="133" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/133">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Lakewood ES</school_name>
+		<address>2534 Lindley Ter</address>
+		<city>Rockville</city>
+		<zip_code>20853</zip_code>
+		<phone>301-279-8465</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/lakewoodes</url>
+		<longitude>-77.1940772943</longitude>
+		<latitude>39.0879540935</latitude>
+		<location human_address="{&quot;address&quot;:&quot;2534 Lindley Ter&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20853&quot;}" latitude="39.0879540935" longitude="-77.1940772943" needs_recoding="false" />
+	</row>
+	<row _id="134" _uuid="004A92E7-7C09-4061-AF3D-310360F7C004" _position="134" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/134">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Cold Spring ES</school_name>
+		<address>9201 Falls Chapel Way</address>
+		<city>Potomac</city>
+		<zip_code>20854</zip_code>
+		<phone>301-279-8480</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/coldspringes</url>
+		<longitude>-77.1888641311</longitude>
+		<latitude>39.0592190026</latitude>
+		<location human_address="{&quot;address&quot;:&quot;9201 Falls Chapel Way&quot;,&quot;city&quot;:&quot;Potomac&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20854&quot;}" latitude="39.0592190026" longitude="-77.1888641311" needs_recoding="false" />
+	</row>
+	<row _id="135" _uuid="98A02641-41B0-4228-B81B-B2FE36E83EF9" _position="135" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/135">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Burtonsville ES</school_name>
+		<address>15516 Old Columbia Pik</address>
+		<city>Burtonsville</city>
+		<zip_code>20866</zip_code>
+		<phone>301-989-5654</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/burtonsvillees</url>
+		<longitude>-76.9364158921</longitude>
+		<latitude>39.1113736951</latitude>
+		<location human_address="{&quot;address&quot;:&quot;15516 Old Columbia Pik&quot;,&quot;city&quot;:&quot;Burtonsville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20866&quot;}" latitude="39.1113736951" longitude="-76.9364158921" needs_recoding="false" />
+	</row>
+	<row _id="136" _uuid="719B81EC-6AAA-4A65-84BA-5F4C2E8E4F21" _position="136" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/136">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Stonegate ES</school_name>
+		<address>14811 Notley Rd</address>
+		<city>Silver Spring</city>
+		<zip_code>20904</zip_code>
+		<phone>301-989-5668</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/stonegatees</url>
+		<longitude>-77.0157475178</longitude>
+		<latitude>39.0995467662</latitude>
+		<location human_address="{&quot;address&quot;:&quot;14811 Notley Rd&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20904&quot;}" latitude="39.0995467662" longitude="-77.0157475178" needs_recoding="false" />
+	</row>
+	<row _id="137" _uuid="30A4A825-26AD-4828-B8DF-0F1010B2B246" _position="137" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/137">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Cloverly ES</school_name>
+		<address>800 Briggs Chaney Rd</address>
+		<city>Silver Spring</city>
+		<zip_code>20904</zip_code>
+		<phone>301-989-5770</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/cloverlyes</url>
+		<longitude>-76.9942569561</longitude>
+		<latitude>39.1076890075</latitude>
+		<location human_address="{&quot;address&quot;:&quot;800 Briggs Chaney Rd&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20904&quot;}" latitude="39.1076890075" longitude="-76.9942569561" needs_recoding="false" />
+	</row>
+	<row _id="138" _uuid="66D37662-FA64-4459-BF5A-BC656B0BD152" _position="138" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/138">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Dr Charles R Drew ES</school_name>
+		<address>1200 Swingingdale Dr</address>
+		<city>Silver Spring</city>
+		<zip_code>20905</zip_code>
+		<phone>301-989-6030</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/drewes</url>
+		<longitude>-76.9871082262</longitude>
+		<latitude>39.0916281714</latitude>
+		<location human_address="{&quot;address&quot;:&quot;1200 Swingingdale Dr&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20905&quot;}" latitude="39.0916281714" longitude="-76.9871082262" needs_recoding="false" />
+	</row>
+	<row _id="139" _uuid="8242C37E-31C8-4D2A-ADFA-3DB3123FEE27" _position="139" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/139">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Sherwood ES</school_name>
+		<address>1401 Olney Sandy Spring Rd</address>
+		<city>Sandy Spring</city>
+		<zip_code>20860</zip_code>
+		<phone>301-924-3195</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/sherwoodes</url>
+		<longitude>-77.0331164576</longitude>
+		<latitude>39.1495841588</latitude>
+		<location human_address="{&quot;address&quot;:&quot;1401 Olney Sandy Spring Rd&quot;,&quot;city&quot;:&quot;Sandy Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20860&quot;}" latitude="39.1495841588" longitude="-77.0331164576" needs_recoding="false" />
+	</row>
+	<row _id="140" _uuid="8D35BD64-E445-450F-B430-9F80AB27B28C" _position="140" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/140">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Brooke Grove ES</school_name>
+		<address>2700 Spartan Rd</address>
+		<city>Olney</city>
+		<zip_code>20832</zip_code>
+		<phone>301-924-3154</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/brookegrovees</url>
+		<longitude>-77.0505720393</longitude>
+		<latitude>39.1568438213</latitude>
+		<location human_address="{&quot;address&quot;:&quot;2700 Spartan Rd&quot;,&quot;city&quot;:&quot;Olney&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20832&quot;}" latitude="39.1568438213" longitude="-77.0505720393" needs_recoding="false" />
+	</row>
+	<row _id="141" _uuid="A14F11DF-F4C5-483D-B608-BACA89152EEC" _position="141" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/141">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Olney ES</school_name>
+		<address>3401 Queen Mary Dr</address>
+		<city>Olney</city>
+		<zip_code>20832</zip_code>
+		<phone>301-924-3126</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/olneyes</url>
+		<longitude>-77.0682809714</longitude>
+		<latitude>39.1492298699</latitude>
+		<location human_address="{&quot;address&quot;:&quot;3401 Queen Mary Dr&quot;,&quot;city&quot;:&quot;Olney&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20832&quot;}" latitude="39.1492298699" longitude="-77.0682809714" needs_recoding="false" />
+	</row>
+	<row _id="142" _uuid="73142995-01AF-480F-A49F-0D3D38E1F6E6" _position="142" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/142">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Belmont ES</school_name>
+		<address>19528 Olney Mill Rd</address>
+		<city>Olney</city>
+		<zip_code>20832</zip_code>
+		<phone>301-924-3140</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/belmontes</url>
+		<longitude>-77.0668029032</longitude>
+		<latitude>39.1785814737</latitude>
+		<location human_address="{&quot;address&quot;:&quot;19528 Olney Mill Rd&quot;,&quot;city&quot;:&quot;Olney&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20832&quot;}" latitude="39.1785814737" longitude="-77.0668029032" needs_recoding="false" />
+	</row>
+	<row _id="143" _uuid="DC201759-F97D-4678-8532-FDA762BA38A5" _position="143" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/143">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Cashell ES</school_name>
+		<address>17101 Cashell Rd</address>
+		<city>Rockville</city>
+		<zip_code>20853</zip_code>
+		<phone>301-924-3130</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/cashelles</url>
+		<longitude>-77.0859177884</longitude>
+		<latitude>39.1373140735</latitude>
+		<location human_address="{&quot;address&quot;:&quot;17101 Cashell Rd&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20853&quot;}" latitude="39.1373140735" longitude="-77.0859177884" needs_recoding="false" />
+	</row>
+	<row _id="144" _uuid="94F300AB-8245-4D18-B539-E81D82C2B599" _position="144" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/144">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Greenwood ES</school_name>
+		<address>3336 Gold Mine Rd</address>
+		<city>Brookeville</city>
+		<zip_code>20833</zip_code>
+		<phone>301-924-3145</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/greenwoodes</url>
+		<longitude>-77.0647632594</longitude>
+		<latitude>39.1652320194</latitude>
+		<location human_address="{&quot;address&quot;:&quot;3336 Gold Mine Rd&quot;,&quot;city&quot;:&quot;Brookeville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20833&quot;}" latitude="39.1652320194" longitude="-77.0647632594" needs_recoding="false" />
+	</row>
+	<row _id="145" _uuid="34681A6E-4D0C-436C-8BFC-EE8FEF0A22EB" _position="145" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/145">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Mill Creek Towne ES</school_name>
+		<address>17700 Park Mill Dr</address>
+		<city>Rockville</city>
+		<zip_code>20855</zip_code>
+		<phone>301-840-7149</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/mctes</url>
+		<longitude>-77.1538014464</longitude>
+		<latitude>39.146421794</latitude>
+		<location human_address="{&quot;address&quot;:&quot;17700 Park Mill Dr&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20855&quot;}" latitude="39.146421794" longitude="-77.1538014464" needs_recoding="false" />
+	</row>
+	<row _id="146" _uuid="58C61E54-D040-4DA0-9A2D-BEA2913CEE99" _position="146" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/146">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Candlewood ES</school_name>
+		<address>7210 Osprey Dr</address>
+		<city>Rockville</city>
+		<zip_code>20855</zip_code>
+		<phone>301-840-7167</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/candlewoodes/</url>
+		<longitude>-77.1470003793</longitude>
+		<latitude>39.1290023776</latitude>
+		<location human_address="{&quot;address&quot;:&quot;7210 Osprey Dr&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20855&quot;}" latitude="39.1290023776" longitude="-77.1470003793" needs_recoding="false" />
+	</row>
+	<row _id="147" _uuid="ECDAD7DF-2CDE-4A21-B58E-E18E261A6AB9" _position="147" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/147">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Sequoyah ES</school_name>
+		<address>17301 Bowie Mill Rd</address>
+		<city>Derwood</city>
+		<zip_code>20855</zip_code>
+		<phone>301-840-5335</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/sequoyahes</url>
+		<longitude>-77.1177456873</longitude>
+		<latitude>39.1392853217</latitude>
+		<location human_address="{&quot;address&quot;:&quot;17301 Bowie Mill Rd&quot;,&quot;city&quot;:&quot;Derwood&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20855&quot;}" latitude="39.1392853217" longitude="-77.1177456873" needs_recoding="false" />
+	</row>
+	<row _id="148" _uuid="D5753C11-442E-4B5D-9C31-DD7D5E1653D4" _position="148" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/148">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Rosemont ES</school_name>
+		<address>16400 Alden Ave</address>
+		<city>Gaithersburg</city>
+		<zip_code>20877</zip_code>
+		<phone>301-840-7123</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/rosemontes</url>
+		<longitude>-77.1852514951</longitude>
+		<latitude>39.1251152677</latitude>
+		<location human_address="{&quot;address&quot;:&quot;16400 Alden Ave&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20877&quot;}" latitude="39.1251152677" longitude="-77.1852514951" needs_recoding="false" />
+	</row>
+	<row _id="149" _uuid="AB7A0B53-E08C-435B-9F36-5771AA708B1C" _position="149" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/149">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Summit Hall ES</school_name>
+		<address>101 W Deer Park Rd</address>
+		<city>Gaithersburg</city>
+		<zip_code>20877</zip_code>
+		<phone>301-840-7127</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/summithalles</url>
+		<longitude>-77.195457283</longitude>
+		<latitude>39.127282494</latitude>
+		<location human_address="{&quot;address&quot;:&quot;101 W Deer Park Rd&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20877&quot;}" latitude="39.127282494" longitude="-77.195457283" needs_recoding="false" />
+	</row>
+	<row _id="150" _uuid="A4E9DA5B-31DC-47F7-9B2F-F341FC8FD32C" _position="150" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/150">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Washington Grove ES</school_name>
+		<address>8712 Oakmont St</address>
+		<city>Gaithersburg</city>
+		<zip_code>20877</zip_code>
+		<phone>301-840-7120</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/washingtongrovees</url>
+		<longitude>-77.1777402319</longitude>
+		<latitude>39.1324887754</latitude>
+		<location human_address="{&quot;address&quot;:&quot;8712 Oakmont St&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20877&quot;}" latitude="39.1324887754" longitude="-77.1777402319" needs_recoding="false" />
+	</row>
+	<row _id="151" _uuid="BE902059-3C5A-4172-97F7-44FD513B71FD" _position="151" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/151">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Gaithersburg ES</school_name>
+		<address>35 N Summit Ave</address>
+		<city>Gaithersburg</city>
+		<zip_code>20877</zip_code>
+		<phone>301-840-7136</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/gaithersburges</url>
+		<longitude>-77.1920511474</longitude>
+		<latitude>39.1435715404</latitude>
+		<location human_address="{&quot;address&quot;:&quot;35 N Summit Ave&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20877&quot;}" latitude="39.1435715404" longitude="-77.1920511474" needs_recoding="false" />
+	</row>
+	<row _id="152" _uuid="D0AB6998-BFFD-4755-802E-E6BC4F89F005" _position="152" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/152">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Whetstone ES</school_name>
+		<address>19201 Thomas Farm Dr</address>
+		<city>Gaithersburg</city>
+		<zip_code>20879</zip_code>
+		<phone>301-840-7191</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/whetstonees</url>
+		<longitude>-77.1969947933</longitude>
+		<latitude>39.1718688083</latitude>
+		<location human_address="{&quot;address&quot;:&quot;19201 Thomas Farm Dr&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20879&quot;}" latitude="39.1718688083" longitude="-77.1969947933" needs_recoding="false" />
+	</row>
+	<row _id="153" _uuid="F7174767-B18C-4AE9-BCB3-10C0F1E1FE2E" _position="153" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/153">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>South Lake ES</school_name>
+		<address>18201 Contour Rd</address>
+		<city>Gaithersburg</city>
+		<zip_code>20877</zip_code>
+		<phone>301-840-7141</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/southlakees</url>
+		<longitude>-77.1969833619</longitude>
+		<latitude>39.1558163309</latitude>
+		<location human_address="{&quot;address&quot;:&quot;18201 Contour Rd&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20877&quot;}" latitude="39.1558163309" longitude="-77.1969833619" needs_recoding="false" />
+	</row>
+	<row _id="154" _uuid="DB4F62EC-CA41-43B1-9D2E-1148AF0D11FD" _position="154" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/154">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Watkins Mill ES</school_name>
+		<address>19001 Watkins Mill Rd</address>
+		<city>Montgomery Village</city>
+		<zip_code>20886</zip_code>
+		<phone>301-840-7181</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/watkinsmilles</url>
+		<longitude>-77.2110251862</longitude>
+		<latitude>39.1672209879</latitude>
+		<location human_address="{&quot;address&quot;:&quot;19001 Watkins Mill Rd&quot;,&quot;city&quot;:&quot;Montgomery Village&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20886&quot;}" latitude="39.1672209879" longitude="-77.2110251862" needs_recoding="false" />
+	</row>
+	<row _id="155" _uuid="291F97D6-3755-4BFF-8B83-B2235FA8F30D" _position="155" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/155">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Strawberry Knoll ES</school_name>
+		<address>18820 Strawberry Knoll Rd</address>
+		<city>Gaithersburg</city>
+		<zip_code>20879</zip_code>
+		<phone>301-840-7112</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/strawberryknolles</url>
+		<longitude>-77.1825348422</longitude>
+		<latitude>39.1658673386</latitude>
+		<location human_address="{&quot;address&quot;:&quot;18820 Strawberry Knoll Rd&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20879&quot;}" latitude="39.1658673386" longitude="-77.1825348422" needs_recoding="false" />
+	</row>
+	<row _id="156" _uuid="757BC4E1-C60E-4E26-A908-808C50C87B6B" _position="156" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/156">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Flower Hill ES</school_name>
+		<address>18425 Flower Hill Way</address>
+		<city>Gaithersburg</city>
+		<zip_code>20879</zip_code>
+		<phone>301-840-7161</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/flowerhilles</url>
+		<longitude>-77.1713034798</longitude>
+		<latitude>39.1590075849</latitude>
+		<location human_address="{&quot;address&quot;:&quot;18425 Flower Hill Way&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20879&quot;}" latitude="39.1590075849" longitude="-77.1713034798" needs_recoding="false" />
+	</row>
+	<row _id="157" _uuid="1153DA66-01DB-433D-9AE5-73B4B1E941F0" _position="157" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/157">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Stedwick ES</school_name>
+		<address>10631 Stedwick Rd</address>
+		<city>Montgomery Village</city>
+		<zip_code>20886</zip_code>
+		<phone>301-840-7187</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/stedwickes</url>
+		<longitude>-77.2111923449</longitude>
+		<latitude>39.1743636993</latitude>
+		<location human_address="{&quot;address&quot;:&quot;10631 Stedwick Rd&quot;,&quot;city&quot;:&quot;Montgomery Village&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20886&quot;}" latitude="39.1743636993" longitude="-77.2111923449" needs_recoding="false" />
+	</row>
+	<row _id="158" _uuid="5C5135AD-CC6A-4CAF-9A76-12446C06D3CE" _position="158" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/158">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>S Christa Mcauliffe ES</school_name>
+		<address>12500 Wisteria Dr</address>
+		<city>Germantown</city>
+		<zip_code>20874</zip_code>
+		<phone>301-353-0910</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/mcauliffees</url>
+		<longitude>-77.2609323153</longitude>
+		<latitude>39.167507691</latitude>
+		<location human_address="{&quot;address&quot;:&quot;12500 Wisteria Dr&quot;,&quot;city&quot;:&quot;Germantown&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20874&quot;}" latitude="39.167507691" longitude="-77.2609323153" needs_recoding="false" />
+	</row>
+	<row _id="159" _uuid="DDEA94CA-693B-431E-86F7-DA93AB4EFB33" _position="159" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/159">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Fox Chapel ES</school_name>
+		<address>19315 Archdale Rd</address>
+		<city>Germantown</city>
+		<zip_code>20876</zip_code>
+		<phone>301-353-8055</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/foxchapeles</url>
+		<longitude>-77.2421897485</longitude>
+		<latitude>39.1722018594</latitude>
+		<location human_address="{&quot;address&quot;:&quot;19315 Archdale Rd&quot;,&quot;city&quot;:&quot;Germantown&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20876&quot;}" latitude="39.1722018594" longitude="-77.2421897485" needs_recoding="false" />
+	</row>
+	<row _id="160" _uuid="4A1EB210-0C45-49C6-BBBA-1033D7B58792" _position="160" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/160">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Thurgood Marshall ES</school_name>
+		<address>12260 McDonald Chapel Dr</address>
+		<city>Gaithersburg</city>
+		<zip_code>20878</zip_code>
+		<phone>301-670-8282</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/thurgoodmarshalles</url>
+		<longitude>-77.2598691505</longitude>
+		<latitude>39.1262200858</latitude>
+		<location human_address="{&quot;address&quot;:&quot;12260 McDonald Chapel Dr&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20878&quot;}" latitude="39.1262200858" longitude="-77.2598691505" needs_recoding="false" />
+	</row>
+	<row _id="161" _uuid="0F1ACC29-5881-46E3-B413-B9E58D2CDD35" _position="161" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/161">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Diamond ES</school_name>
+		<address>4 Marquis Dr</address>
+		<city>Gaithersburg</city>
+		<zip_code>20878</zip_code>
+		<phone>301-840-7177</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/diamondes</url>
+		<longitude>-77.2389185172</longitude>
+		<latitude>39.1357087649</latitude>
+		<location human_address="{&quot;address&quot;:&quot;4 Marquis Dr&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20878&quot;}" latitude="39.1357087649" longitude="-77.2389185172" needs_recoding="false" />
+	</row>
+	<row _id="162" _uuid="217EF200-1C13-4D73-B278-C5317B6D516A" _position="162" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/162">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Brown Station ES</school_name>
+		<address>851 Quince Orchard Blv</address>
+		<city>Gaithersburg</city>
+		<zip_code>20878</zip_code>
+		<phone>301-840-7172</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/brownstationes</url>
+		<longitude>-77.2307127305</longitude>
+		<latitude>39.1388830108</latitude>
+		<location human_address="{&quot;address&quot;:&quot;851 Quince Orchard Blv&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20878&quot;}" latitude="39.1388830108" longitude="-77.2307127305" needs_recoding="false" />
+	</row>
+	<row _id="163" _uuid="0714FEB9-FE65-466D-9E60-FA4DFB330401" _position="163" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/163">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Travilah ES</school_name>
+		<address>13801 DuFief Mill Rd</address>
+		<city>North Potomac</city>
+		<zip_code>20878</zip_code>
+		<phone>301-840-7153</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/travilahes</url>
+		<longitude>-77.2486226133</longitude>
+		<latitude>39.0824785544</latitude>
+		<location human_address="{&quot;address&quot;:&quot;13801 DuFief Mill Rd&quot;,&quot;city&quot;:&quot;North Potomac&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20878&quot;}" latitude="39.0824785544" longitude="-77.2486226133" needs_recoding="false" />
+	</row>
+	<row _id="164" _uuid="8F6103C9-A0D4-4D02-A4E8-87A7A76C6855" _position="164" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/164">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Rachel Carson ES</school_name>
+		<address>100 Tschiffely Square Rd</address>
+		<city>Gaithersburg</city>
+		<zip_code>20878</zip_code>
+		<phone>301-840-5333</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/rachelcarsones</url>
+		<longitude>-77.2470359348</longitude>
+		<latitude>39.1170772504</latitude>
+		<location human_address="{&quot;address&quot;:&quot;100 Tschiffely Square Rd&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20878&quot;}" latitude="39.1170772504" longitude="-77.2470359348" needs_recoding="false" />
+	</row>
+	<row _id="165" _uuid="734BEF27-86F7-42B3-9C65-A581B49D60D3" _position="165" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/165">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Darnestown ES</school_name>
+		<address>15030 Turkey Foot Rd</address>
+		<city>Gaithersburg</city>
+		<zip_code>20878</zip_code>
+		<phone>301-840-7157</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/darnestownes</url>
+		<longitude>-77.2847480232</longitude>
+		<latitude>39.1025388648</latitude>
+		<location human_address="{&quot;address&quot;:&quot;15030 Turkey Foot Rd&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20878&quot;}" latitude="39.1025388648" longitude="-77.2847480232" needs_recoding="false" />
+	</row>
+	<row _id="166" _uuid="170B9B63-10AC-467E-9135-66E4CAA034C9" _position="166" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/166">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Jones Lane ES</school_name>
+		<address>15110 Jones La</address>
+		<city>Gaithersburg</city>
+		<zip_code>20878</zip_code>
+		<phone>301-840-8160</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/joneslanees</url>
+		<longitude>-77.2658471483</longitude>
+		<latitude>39.1033700765</latitude>
+		<location human_address="{&quot;address&quot;:&quot;15110 Jones La&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20878&quot;}" latitude="39.1033700765" longitude="-77.2658471483" needs_recoding="false" />
+	</row>
+	<row _id="167" _uuid="E3EB7EB8-2314-49B3-BCF9-170A3969EC08" _position="167" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/167">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Fields Road ES</school_name>
+		<address>1 School Dr</address>
+		<city>Gaithersburg</city>
+		<zip_code>20878</zip_code>
+		<phone>301-840-7131</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/fieldsroades</url>
+		<longitude>-77.2152401168</longitude>
+		<latitude>39.118795239</latitude>
+		<location human_address="{&quot;address&quot;:&quot;1 School Dr&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20878&quot;}" latitude="39.118795239" longitude="-77.2152401168" needs_recoding="false" />
+	</row>
+	<row _id="168" _uuid="CEBBC68A-EF1C-44C9-9807-2F959FD72B5C" _position="168" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/168">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Stone Mill ES</school_name>
+		<address>14323 Stonebridge View Dr</address>
+		<city>North Potomac</city>
+		<zip_code>20878</zip_code>
+		<phone>301-279-4975</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/stonemilles</url>
+		<longitude>-77.2144612215</longitude>
+		<latitude>39.0916377183</latitude>
+		<location human_address="{&quot;address&quot;:&quot;14323 Stonebridge View Dr&quot;,&quot;city&quot;:&quot;North Potomac&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20878&quot;}" latitude="39.0916377183" longitude="-77.2144612215" needs_recoding="false" />
+	</row>
+	<row _id="169" _uuid="8C28C3F2-C9FB-4E6F-B757-F8ABB984DCB3" _position="169" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/169">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Little Bennett ES</school_name>
+		<address>23930 Burdette Forest Rd</address>
+		<city>Clarksburg</city>
+		<zip_code>20871</zip_code>
+		<phone>301-540-5535</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/littlebennettes</url>
+		<longitude>-77.2753630947</longitude>
+		<latitude>39.246445809</latitude>
+		<location human_address="{&quot;address&quot;:&quot;23930 Burdette Forest Rd&quot;,&quot;city&quot;:&quot;Clarksburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20871&quot;}" latitude="39.246445809" longitude="-77.2753630947" needs_recoding="false" />
+	</row>
+	<row _id="170" _uuid="83A245C4-1B4C-479F-9ED9-385BDF6580A3" _position="170" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/170">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Sargent Shriver ES</school_name>
+		<address>12518 Greenly Dr</address>
+		<city>Silver Spring</city>
+		<zip_code>20906</zip_code>
+		<phone>301-929-4426</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/shriveres</url>
+		<longitude>-77.0791590245</longitude>
+		<latitude>39.0615504152</latitude>
+		<location human_address="{&quot;address&quot;:&quot;12518 Greenly Dr&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20906&quot;}" latitude="39.0615504152" longitude="-77.0791590245" needs_recoding="false" />
+	</row>
+	<row _id="171" _uuid="6C453B2A-8221-4D78-B1DF-BDE58FE8EEE5" _position="171" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/171">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Roscoe R Nix ES</school_name>
+		<address>1100 Corliss St</address>
+		<city>Silver Spring</city>
+		<zip_code>20903</zip_code>
+		<phone>301-422-5070</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/nixes</url>
+		<longitude>-76.9896552883</longitude>
+		<latitude>39.0168668083</latitude>
+		<location human_address="{&quot;address&quot;:&quot;1100 Corliss St&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20903&quot;}" latitude="39.0168668083" longitude="-76.9896552883" needs_recoding="false" />
+	</row>
+	<row _id="172" _uuid="0557C618-A5D0-4CB8-BAE2-2C6855DE76DF" _position="172" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/172">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Great Seneca Creek ES</school_name>
+		<address>13010 Dairymaid Dr</address>
+		<city>Germantown</city>
+		<zip_code>20874</zip_code>
+		<phone>301-353-8500</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/greatsenecacreekes</url>
+		<longitude>-77.2691896298</longitude>
+		<latitude>39.1522616814</latitude>
+		<location human_address="{&quot;address&quot;:&quot;13010 Dairymaid Dr&quot;,&quot;city&quot;:&quot;Germantown&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20874&quot;}" latitude="39.1522616814" longitude="-77.2691896298" needs_recoding="false" />
+	</row>
+	<row _id="173" _uuid="8C9F7A77-C82A-4A5C-AB1F-3CDAABD0226A" _position="173" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/173">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Arcola ES</school_name>
+		<address>1820 Franwall Ave</address>
+		<city>Silver Spring</city>
+		<zip_code>20902</zip_code>
+		<phone>301-649-8590</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/arcolaes</url>
+		<longitude>-77.0393881959</longitude>
+		<latitude>39.0455588679</latitude>
+		<location human_address="{&quot;address&quot;:&quot;1820 Franwall Ave&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20902&quot;}" latitude="39.0455588679" longitude="-77.0393881959" needs_recoding="false" />
+	</row>
+	<row _id="174" _uuid="D63686AE-D613-45A0-BA47-4D8D88B05F01" _position="174" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/174">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>William B Gibbs Jr ES</school_name>
+		<address>12615 Royal Crown Dr</address>
+		<city>Clarksburg</city>
+		<zip_code>20876</zip_code>
+		<phone>301-353-0800</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/gibbses/</url>
+		<longitude>-77.2596251938</longitude>
+		<latitude>39.2057196485</latitude>
+		<location human_address="{&quot;address&quot;:&quot;12615 Royal Crown Dr&quot;,&quot;city&quot;:&quot;Clarksburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20876&quot;}" latitude="39.2057196485" longitude="-77.2596251938" needs_recoding="false" />
+	</row>
+	<row _id="175" _uuid="BECA58B3-67D6-4004-B1F3-BDA48483A95D" _position="175" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/175">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Cannon Road ES (at Fairland Center)</school_name>
+		<address>13313 Old Columbia Pike</address>
+		<city>Silver Spring</city>
+		<zip_code>20904</zip_code>
+		<phone>301-989-5662</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/cannonroades</url>
+		<longitude>-76.9578934897</longitude>
+		<latitude>39.0746038591</latitude>
+		<location human_address="{&quot;address&quot;:&quot;13313 Old Columbia Pike&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20904&quot;}" latitude="39.0746038591" longitude="-76.9578934897" needs_recoding="false" />
+	</row>
+	<row _id="176" _uuid="601DF59D-B6C1-44AE-AB20-FB7F802ADA10" _position="176" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/176">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Beverly Farms ES (at North Lake Center)</school_name>
+		<address>15101 Bauer Dr</address>
+		<city>Rockville</city>
+		<zip_code>20853</zip_code>
+		<phone>301-469-1050</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/beverlyfarmses</url>
+		<longitude>-77.1040071157</longitude>
+		<latitude>39.1027313861</latitude>
+		<location human_address="{&quot;address&quot;:&quot;15101 Bauer Dr&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20853&quot;}" latitude="39.1027313861" longitude="-77.1040071157" needs_recoding="false" />
+	</row>
+	<row _id="177" _uuid="BA95B117-3A78-4DEE-B898-99A17C0F68BE" _position="177" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/177">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Carderock Springs ES</school_name>
+		<address>7401 Persimmon Tree La</address>
+		<city>Bethesda</city>
+		<zip_code>20817</zip_code>
+		<phone>301-469-1034</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/carderockspringses</url>
+		<longitude>-77.1717600546</longitude>
+		<latitude>38.9832956271</latitude>
+		<location human_address="{&quot;address&quot;:&quot;7401 Persimmon Tree La&quot;,&quot;city&quot;:&quot;Bethesda&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20817&quot;}" latitude="38.9832956271" longitude="-77.1717600546" needs_recoding="false" />
+	</row>
+	<row _id="178" _uuid="9D678E8F-F15C-4A25-92C6-E0A6B9DC955A" _position="178" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/178">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Downcounty Consortium ES (2012)</school_name>
+		<address>2600 Hayden Dr</address>
+		<city>Silver Spring</city>
+		<zip_code>20902</zip_code>
+		<phone>301-309-6277</phone>
+		<url>http://www.montgomeryschoolsmd.org/</url>
+		<longitude>-77.0545584109</longitude>
+		<latitude>39.0191171311</latitude>
+		<location human_address="{&quot;address&quot;:&quot;2600 Hayden Dr&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20902&quot;}" latitude="39.0191171311" longitude="-77.0545584109" needs_recoding="false" />
+	</row>
+	<row _id="179" _uuid="DD0D8E47-F37E-4703-8F5C-E06A67F23EA3" _position="179" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/179">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Garrett Park ES (at Grosvenor Center)</school_name>
+		<address>5701 Grosvenor La</address>
+		<city>Bethesda</city>
+		<zip_code>20814</zip_code>
+		<phone>301-929-2170</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/garrettparkes</url>
+		<longitude>-77.1141310594</longitude>
+		<latitude>39.0235338133</latitude>
+		<location human_address="{&quot;address&quot;:&quot;5701 Grosvenor La&quot;,&quot;city&quot;:&quot;Bethesda&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20814&quot;}" latitude="39.0235338133" longitude="-77.1141310594" needs_recoding="false" />
+	</row>
+	<row _id="180" _uuid="E6C89AA4-A260-40E2-9DA9-ADF9E4E521A3" _position="180" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/180">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Fallsmead ES</school_name>
+		<address>1800 Greenplace Ter</address>
+		<city>Rockville</city>
+		<zip_code>20850</zip_code>
+		<phone>301-279-4984</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/fallsmeades</url>
+		<longitude>-77.1765379964</longitude>
+		<latitude>39.0779606451</latitude>
+		<location human_address="{&quot;address&quot;:&quot;1800 Greenplace Ter&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20850&quot;}" latitude="39.0779606451" longitude="-77.1765379964" needs_recoding="false" />
+	</row>
+	<row _id="181" _uuid="540203C5-D97A-4327-AEC2-7A636FA35BEE" _position="181" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/181">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Beall ES</school_name>
+		<address>451 Beall Ave</address>
+		<city>Rockville</city>
+		<zip_code>20850</zip_code>
+		<phone>301-279-8460</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/bealles</url>
+		<longitude>-77.161758368</longitude>
+		<latitude>39.0877753931</latitude>
+		<location human_address="{&quot;address&quot;:&quot;451 Beall Ave&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20850&quot;}" latitude="39.0877753931" longitude="-77.161758368" needs_recoding="false" />
+	</row>
+	<row _id="182" _uuid="251BFD31-1F5C-4AD4-BD40-7318483CC5A5" _position="182" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/182">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>College Gardens ES</school_name>
+		<address>1700 Yale Pl</address>
+		<city>Rockville</city>
+		<zip_code>20850</zip_code>
+		<phone>301-279-8470</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/collegegardenses</url>
+		<longitude>-77.1627838116</longitude>
+		<latitude>39.1028873778</latitude>
+		<location human_address="{&quot;address&quot;:&quot;1700 Yale Pl&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20850&quot;}" latitude="39.1028873778" longitude="-77.1627838116" needs_recoding="false" />
+	</row>
+	<row _id="183" _uuid="631F7355-A268-48A8-8E24-0E44CBBC790D" _position="183" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/183">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Dufief ES</school_name>
+		<address>15001 DuFief Dr</address>
+		<city>Gaithersburg</city>
+		<zip_code>20878</zip_code>
+		<phone>301-279-4980</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/dufiefes</url>
+		<longitude>-77.2375326482</longitude>
+		<latitude>39.1018337081</latitude>
+		<location human_address="{&quot;address&quot;:&quot;15001 DuFief Dr&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20878&quot;}" latitude="39.1018337081" longitude="-77.2375326482" needs_recoding="false" />
+	</row>
+	<row _id="184" _uuid="F5906480-3CDE-4F6F-8FAD-1629CC8923DA" _position="184" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/184">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Maryvale ES</school_name>
+		<address>1000 First St</address>
+		<city>Rockville</city>
+		<zip_code>20850</zip_code>
+		<phone>301-279-4990</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/maryvalees</url>
+		<longitude>-77.1369670183</longitude>
+		<latitude>39.0912671214</latitude>
+		<location human_address="{&quot;address&quot;:&quot;1000 First St&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20850&quot;}" latitude="39.0912671214" longitude="-77.1369670183" needs_recoding="false" />
+	</row>
+	<row _id="185" _uuid="96D10BAF-888C-4C6B-8E9F-741B6C77E88E" _position="185" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/185">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Meadow Hall ES</school_name>
+		<address>951 Twinbrook Pkwy</address>
+		<city>Rockville</city>
+		<zip_code>20851</zip_code>
+		<phone>301-279-4988</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/meadowhalles</url>
+		<longitude>-77.1164059038</longitude>
+		<latitude>39.0843521349</latitude>
+		<location human_address="{&quot;address&quot;:&quot;951 Twinbrook Pkwy&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20851&quot;}" latitude="39.0843521349" longitude="-77.1164059038" needs_recoding="false" />
+	</row>
+	<row _id="186" _uuid="1146CFB4-431C-4A1E-A2A9-B7F56A6C1902" _position="186" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/186">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Lucy V Barnsley ES</school_name>
+		<address>14516 Nadine Dr</address>
+		<city>Rockville</city>
+		<zip_code>20853</zip_code>
+		<phone>301-460-2121</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/barnsleyes</url>
+		<longitude>-77.103587056</longitude>
+		<latitude>39.0941208289</latitude>
+		<location human_address="{&quot;address&quot;:&quot;14516 Nadine Dr&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20853&quot;}" latitude="39.0941208289" longitude="-77.103587056" needs_recoding="false" />
+	</row>
+	<row _id="187" _uuid="EC68800B-CBE4-431F-B734-61A215E9F036" _position="187" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/187">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Twinbrook ES</school_name>
+		<address>5911 Ridgeway Ave</address>
+		<city>Rockville</city>
+		<zip_code>20851</zip_code>
+		<phone>301-230-5925</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/twinbrookes</url>
+		<longitude>-77.1200953184</longitude>
+		<latitude>39.0687280318</latitude>
+		<location human_address="{&quot;address&quot;:&quot;5911 Ridgeway Ave&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20851&quot;}" latitude="39.0687280318" longitude="-77.1200953184" needs_recoding="false" />
+	</row>
+	<row _id="188" _uuid="16D2C96F-12F9-4478-9548-D0D1055F8134" _position="188" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/188">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Rock Creek Valley ES</school_name>
+		<address>5121 Russett Rd</address>
+		<city>Rockville</city>
+		<zip_code>20853</zip_code>
+		<phone>301-460-2195</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/rcvalleyes</url>
+		<longitude>-77.102608554</longitude>
+		<latitude>39.0832114316</latitude>
+		<location human_address="{&quot;address&quot;:&quot;5121 Russett Rd&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20853&quot;}" latitude="39.0832114316" longitude="-77.102608554" needs_recoding="false" />
+	</row>
+	<row _id="189" _uuid="72339E33-4F62-4392-8C22-F69EF58F52F6" _position="189" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/189">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Brookhaven ES</school_name>
+		<address>4610 Renn St</address>
+		<city>Rockville</city>
+		<zip_code>20853</zip_code>
+		<phone>301-460-2140</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/brookhavenes</url>
+		<longitude>-77.0925980063</longitude>
+		<latitude>39.0822509877</latitude>
+		<location human_address="{&quot;address&quot;:&quot;4610 Renn St&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20853&quot;}" latitude="39.0822509877" longitude="-77.0925980063" needs_recoding="false" />
+	</row>
+	<row _id="190" _uuid="246B6A37-3CAC-4638-A48A-E3E92591758D" _position="190" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/190">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Flower Valley ES</school_name>
+		<address>4615 Sunflower Dr</address>
+		<city>Rockville</city>
+		<zip_code>20853</zip_code>
+		<phone>301-924-3135</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/flowervalleyes</url>
+		<longitude>-77.0930515019</longitude>
+		<latitude>39.1057704102</latitude>
+		<location human_address="{&quot;address&quot;:&quot;4615 Sunflower Dr&quot;,&quot;city&quot;:&quot;Rockville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20853&quot;}" latitude="39.1057704102" longitude="-77.0930515019" needs_recoding="false" />
+	</row>
+	<row _id="191" _uuid="A83E9103-1F66-41FD-A99E-003ABFFB5DEF" _position="191" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/191">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Strathmore ES</school_name>
+		<address>3200 Beaverwood La</address>
+		<city>Silver Spring</city>
+		<zip_code>20906</zip_code>
+		<phone>301-460-2135</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/strathmorees</url>
+		<longitude>-77.0654349871</longitude>
+		<latitude>39.0860669739</latitude>
+		<location human_address="{&quot;address&quot;:&quot;3200 Beaverwood La&quot;,&quot;city&quot;:&quot;Silver Spring&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20906&quot;}" latitude="39.0860669739" longitude="-77.0654349871" needs_recoding="false" />
+	</row>
+	<row _id="192" _uuid="1C6AAEF2-7559-484D-9A7A-B28AE7134ECD" _position="192" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/192">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Judith A Resnik ES</school_name>
+		<address>7301 Hadley Farms Dr</address>
+		<city>Gaithersburg</city>
+		<zip_code>20879</zip_code>
+		<phone>301-670-8200</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/resnikes</url>
+		<longitude>-77.1519858022</longitude>
+		<latitude>39.181576738</latitude>
+		<location human_address="{&quot;address&quot;:&quot;7301 Hadley Farms Dr&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20879&quot;}" latitude="39.181576738" longitude="-77.1519858022" needs_recoding="false" />
+	</row>
+	<row _id="193" _uuid="32C0ADDD-B731-4B34-B5AD-3CB1349F94D7" _position="193" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/193">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Laytonsville ES</school_name>
+		<address>21401 Laytonsville Rd</address>
+		<city>Laytonsville</city>
+		<zip_code>20882</zip_code>
+		<phone>301-840-7145</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/laytonsvillees</url>
+		<longitude>-77.1403377171</longitude>
+		<latitude>39.2070466834</latitude>
+		<location human_address="{&quot;address&quot;:&quot;21401 Laytonsville Rd&quot;,&quot;city&quot;:&quot;Laytonsville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20882&quot;}" latitude="39.2070466834" longitude="-77.1403377171" needs_recoding="false" />
+	</row>
+	<row _id="194" _uuid="A8FF3F3B-878D-4EC8-809B-10C5D288D5E5" _position="194" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/194">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Goshen ES</school_name>
+		<address>8701 Warfield Rd</address>
+		<city>Gaithersburg</city>
+		<zip_code>20882</zip_code>
+		<phone>301-840-8165</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/goshenes</url>
+		<longitude>-77.1798890434</longitude>
+		<latitude>39.194373374</latitude>
+		<location human_address="{&quot;address&quot;:&quot;8701 Warfield Rd&quot;,&quot;city&quot;:&quot;Gaithersburg&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20882&quot;}" latitude="39.194373374" longitude="-77.1798890434" needs_recoding="false" />
+	</row>
+	<row _id="195" _uuid="268959CC-85C7-414B-A46F-5F112FFD9FAC" _position="195" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/195">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Ronald McNair ES</school_name>
+		<address>13881 Hopkins Rd</address>
+		<city>Germantown</city>
+		<zip_code>20874</zip_code>
+		<phone>301-353-0854</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/ronaldmcnaires</url>
+		<longitude>-77.2905682704</longitude>
+		<latitude>39.1697657621</latitude>
+		<location human_address="{&quot;address&quot;:&quot;13881 Hopkins Rd&quot;,&quot;city&quot;:&quot;Germantown&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20874&quot;}" latitude="39.1697657621" longitude="-77.2905682704" needs_recoding="false" />
+	</row>
+	<row _id="196" _uuid="8C69ECDA-663D-495D-8EEA-E8E1546C79D2" _position="196" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/196">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Lake Seneca ES</school_name>
+		<address>13600 Wanegarden Dr</address>
+		<city>Germantown</city>
+		<zip_code>20874</zip_code>
+		<phone>301-353-0929</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/lakesenecaes</url>
+		<longitude>-77.2831202702</longitude>
+		<latitude>39.1832743058</latitude>
+		<location human_address="{&quot;address&quot;:&quot;13600 Wanegarden Dr&quot;,&quot;city&quot;:&quot;Germantown&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20874&quot;}" latitude="39.1832743058" longitude="-77.2831202702" needs_recoding="false" />
+	</row>
+	<row _id="197" _uuid="C85D941C-1EA8-48BA-8B52-FC9E287F4303" _position="197" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/197">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Clopper Mill ES</school_name>
+		<address>18501 Cinnamon Dr</address>
+		<city>Germantown</city>
+		<zip_code>20874</zip_code>
+		<phone>301-353-8065</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/cloppermilles</url>
+		<longitude>-77.2616942414</longitude>
+		<latitude>39.1590306504</latitude>
+		<location human_address="{&quot;address&quot;:&quot;18501 Cinnamon Dr&quot;,&quot;city&quot;:&quot;Germantown&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20874&quot;}" latitude="39.1590306504" longitude="-77.2616942414" needs_recoding="false" />
+	</row>
+	<row _id="198" _uuid="35253F08-F32F-4678-90F5-7158DAFA7B22" _position="198" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/198">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Germantown ES</school_name>
+		<address>19110 Liberty Mill Road</address>
+		<city>Germantown</city>
+		<zip_code>20874</zip_code>
+		<phone>301-353-8050</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/germantownes</url>
+		<longitude>-77.27642324</longitude>
+		<latitude>39.1698143709</latitude>
+		<location human_address="{&quot;address&quot;:&quot;19110 Liberty Mill Road&quot;,&quot;city&quot;:&quot;Germantown&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20874&quot;}" latitude="39.1698143709" longitude="-77.27642324" needs_recoding="false" />
+	</row>
+	<row _id="199" _uuid="308965EF-548F-4599-B3BF-D2A9B5B78B40" _position="199" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/199">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Poolesville ES</school_name>
+		<address>19565 Fisher Ave</address>
+		<city>Poolesville</city>
+		<zip_code>20837</zip_code>
+		<phone>301-972-7960</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/poolesvillees</url>
+		<longitude>-77.4074075374</longitude>
+		<latitude>39.1440313164</latitude>
+		<location human_address="{&quot;address&quot;:&quot;19565 Fisher Ave&quot;,&quot;city&quot;:&quot;Poolesville&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20837&quot;}" latitude="39.1440313164" longitude="-77.4074075374" needs_recoding="false" />
+	</row>
+	<row _id="200" _uuid="58CD5233-503F-4F4B-9AFA-1269777601D1" _position="200" _address="http://data.montgomerycountymd.gov/resource/_772q-4wm8/200">
+		<category>ELEMENTARY SCHOOLS</category>
+		<school_name>Monocacy ES</school_name>
+		<address>18801 Barnesville Rd</address>
+		<city>Dickerson</city>
+		<zip_code>20842</zip_code>
+		<phone>301-972-7990</phone>
+		<url>http://www.montgomeryschoolsmd.org/schools/monocacyes</url>
+		<longitude>-77.392841199</longitude>
+		<latitude>39.224265906</latitude>
+		<location human_address="{&quot;address&quot;:&quot;18801 Barnesville Rd&quot;,&quot;city&quot;:&quot;Dickerson&quot;,&quot;state&quot;:&quot;MD&quot;,&quot;zip&quot;:&quot;20842&quot;}" latitude="39.224265906" longitude="-77.392841199" needs_recoding="false" />
+	</row>
+</response>
