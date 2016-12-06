@@ -4,26 +4,32 @@ import csv
 tree = ET.parse("schooldata.xml")
 root = tree.getroot()
 
+# open a file for writing and give it the write permission
 # open a file for writing
-
-School_data = open('parsedSchools.csv', 'w')
+print 'Example: myfile.csv'
+csvFile = raw_input('Enter the file to write to with the format: ')
+School_data = open(csvFile, 'w')
 print 'File creation and write permission granted'
-# create the csv writer object
 
+# create the csv writer object, this object is the one that will write data(that we paas) into the csv file
 csvwriter = csv.writer(School_data)
+print 'Creating the csv writer object done'
+
+#This list - array- is the one going to store the tags
 school_head = []
 
 count = 0
 for member in root.findall('row'):
-    school = []
     if count == 0:
-        category = member.find('category').tag #name
+        #this section will run only once when we run the file
+        #this section extract the tag name from the xml file
+        category = member.find('category').tag
         school_head.append(category)
 
-        school_name = member.find('school_name').tag #phoneNumber
+        school_name = member.find('school_name').tag
         school_head.append(school_name)
 
-        address = member.find('address').tag #Email address
+        address = member.find('address').tag
         school_head.append(address)
 
         city = member.find('city').tag
@@ -41,6 +47,8 @@ for member in root.findall('row'):
         csvwriter.writerow(school_head)
         count = count + 1
 
+    school = [] #this list -array- is going to store the texts we extract
+    #in this section of the loop we extract the text contents from the xml
     category = member.find('category').text
     school.append(category)
 
@@ -63,4 +71,5 @@ for member in root.findall('row'):
     school.append(url)
 
     csvwriter.writerow(school)
+print 'XML file has been serialized to ', csvFile
 School_data.close()
